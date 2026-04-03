@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Giới thiêu](README.md)
+  * [1. 360 Invoice là gì?](gioi-thieu/1.-360-invoice-la-gi.md)
+  * [2. Giá trị cốt lõi mà 360Invoice mang lại](gioi-thieu/2.-gia-tri-cot-loi-ma-360invoice-mang-lai.md)
+  * [3. Tổng quan Hệ sinh thái Tính năng](gioi-thieu/3.-tong-quan-he-sinh-thai-tinh-nang.md)
+  * [4. 360Invoice dành cho ai?](gioi-thieu/4.-360invoice-danh-cho-ai.md)
+  * [5. Cam kết Đồng hành & Kênh Hỗ trợ](gioi-thieu/5.-cam-ket-dong-hanh-and-kenh-ho-tro.md)
 
 ## TRANG QUẢN LÝ
 
@@ -8,7 +13,7 @@
 * [Đăng xuất trang quản trị](trang-quan-ly/dang-xuat-trang-quan-tri.md)
 * [Khách hàng](trang-quan-ly/khach-hang/README.md)
   * [Thêm khách hàng](trang-quan-ly/khach-hang/them-khach-hang.md)
-  * [Sửa thông tin khách hàng](trang-quan-ly/khach-hang/sua-thong-tin-khach-hang.md)
+  * [Chỉnh sửa thông tin khách hàng](trang-quan-ly/khach-hang/chinh-sua-thong-tin-khach-hang.md)
   * [Chỉnh sửa trạng thái](trang-quan-ly/khach-hang/chinh-sua-trang-thai.md)
   * [Gia hạn](trang-quan-ly/khach-hang/gia-han.md)
   * [Thêm nhân viên](trang-quan-ly/khach-hang/them-nhan-vien.md)
@@ -33,7 +38,19 @@
 * [App 360Invoice](s-dung-360invoice/app-360invoice/README.md)
   * [Đăng nhập](s-dung-360invoice/app-360invoice/dang-nhap.md)
   * [Đăng xuất](s-dung-360invoice/app-360invoice/dang-xuat.md)
-  * [Page 2](s-dung-360invoice/app-360invoice/page-2.md)
+  * [Tạp hóa - Siêu thị - Đại lý](s-dung-360invoice/app-360invoice/tap-hoa-sieu-thi-dai-ly.md)
+  * [Thời trang - Giày dép - làm đẹp](s-dung-360invoice/app-360invoice/thoi-trang-giay-dep-lam-dep.md)
+  * [Nhà Hàng/Quán](s-dung-360invoice/app-360invoice/nha-hang-quan.md)
+  * [Spa - Salon - Massage - Làm đẹp](s-dung-360invoice/app-360invoice/spa-salon-massage-lam-dep.md)
+  * [Nước hoa - Mỹ Phẩm - Skincare](s-dung-360invoice/app-360invoice/nuoc-hoa-my-pham-skincare.md)
+  * [Hiệu thuốc - Quầy thuốc](s-dung-360invoice/app-360invoice/hieu-thuoc-quay-thuoc.md)
+  * [Sửa chữa - Lắp đặt - điện nước - điện lạnh](s-dung-360invoice/app-360invoice/sua-chua-lap-dat-dien-nuoc-dien-lanh.md)
+  * [Điện máy - Điện thoại - Laptop - Điện tử số](s-dung-360invoice/app-360invoice/dien-may-dien-thoai-laptop-dien-tu-so.md)
+  * [Dịch vụ](s-dung-360invoice/app-360invoice/dich-vu.md)
+  * [Vận tải - Xe tải - Xe ship](s-dung-360invoice/app-360invoice/van-tai-xe-tai-xe-ship.md)
+  * [Thuê nhà - Mặt bằng - Kho bãi](s-dung-360invoice/app-360invoice/thue-nha-mat-bang-kho-bai.md)
+  * [Giáo dục - Dạy học - Gia sư - Trung tâm](s-dung-360invoice/app-360invoice/giao-duc-day-hoc-gia-su-trung-tam.md)
+  * [Khu vui chơi](s-dung-360invoice/app-360invoice/khu-vui-choi.md)
 
 ## Modules
 
