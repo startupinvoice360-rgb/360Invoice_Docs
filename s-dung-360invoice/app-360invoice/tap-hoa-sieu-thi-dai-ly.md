@@ -11,6 +11,9 @@ Cách thực hiện
 #### ➤ Truy cập:
 
 * Chọn **Sản phẩm**
+*
+
+    <figure><img src="../../.gitbook/assets/IMG_8602[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Trường hợp 1: Đã có file sản phẩm
 
@@ -21,6 +24,8 @@ Cách thực hiện
 
 * Chọn **Thêm sản phẩm**
 * Nhập các thông tin:
+
+<div><figure><img src="../../.gitbook/assets/IMG_8603[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8604[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 **Thông tin bắt buộc:**
 
@@ -37,6 +42,8 @@ Cách thực hiện
 * Nhóm hàng
   * Nhấn **(+)** để tạo nhóm mới
 
+<figure><img src="../../.gitbook/assets/IMG_8607[1].PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Thiết lập thêm:
 
 * Bật tính năng **Quản lý lô – Hạn sử dụng (HSD)** nếu cần
@@ -49,10 +56,18 @@ Cách thực hiện
 
 * Trang chủ → Chọn **Nhập**
 
+<figure><img src="../../.gitbook/assets/IMG_8602[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Tạo nhà cung cấp:
 
 * Chọn **Thêm mới nhà cung cấp**
+
+<figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 * Nhập thông tin cần thiết
+
+<figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
 * Chọn **Tạo mới**
 
 #### ➤ Tạo đơn nhập:
@@ -77,6 +92,8 @@ Cách thực hiện
 * Chọn **thời gian tạo đơn**
 * Chọn **hình thức thanh toán**
 
+<figure><img src="../../.gitbook/assets/IMG_E8608 (1).JPG" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Hoàn tất:
 
 * Nhấn **Tạo đơn**
@@ -90,13 +107,26 @@ Cách thực hiện
 #### ➤ Thực hiện:
 
 * Trang chủ → Chọn **Kho**
+
+<figure><img src="../../.gitbook/assets/IMG_8602[1] (2).png" alt="" width="188"><figcaption></figcaption></figure>
+
 * Chọn sản phẩm cần kiểm
+
+<figure><img src="../../.gitbook/assets/IMG_8611[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Thao tác:
 
 * Nhấn **3 chấm**
+
+<figure><img src="../../.gitbook/assets/IMG_8611[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 * Chọn **Kiểm kho**
+
+<figure><img src="../../.gitbook/assets/IMG_8612[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 * Nhập lại số lượng đúng thực tế
+
+<figure><img src="../../.gitbook/assets/IMG_8613.PNG" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Hoàn tất:
 
@@ -110,10 +140,17 @@ Cách thực hiện
 
 * Trang chủ → Chọn **Bán hàng**
 
+<figure><img src="../../.gitbook/assets/IMG_8602[1] (3).png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Tính năng hỗ trợ:
 
 * Quét mã vạch → Nhấn **3 chấm**
+
+<figure><img src="../../.gitbook/assets/IMG_8614[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 * Tạo đơn bằng giọng nói → Nhấn **micro**
+
+<figure><img src="../../.gitbook/assets/IMG_8614[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Chọn khách hàng:
 
@@ -122,10 +159,14 @@ Cách thực hiện
 * Tích chọn **Khách lẻ**
 * Nhập tên khách
 
+<figure><img src="../../.gitbook/assets/IMG_8615[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 **Khách bán buôn:**
 
 * Chọn khách hàng có sẵn
 * Hoặc nhấn **Tạo mới**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8614[2].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8616[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_E8619.JPG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Tạo đơn:
 
