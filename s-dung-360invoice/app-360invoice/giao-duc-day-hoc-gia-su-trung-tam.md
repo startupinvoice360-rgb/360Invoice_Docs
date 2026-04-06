@@ -1,74 +1,94 @@
----
-description: Thêm dịch vụ → Bán hàng
----
-
 # Giáo dục - Dạy học - Gia sư - Trung tâm
 
-### Bước 1: Thêm dịch vụ
+**TỔNG QUAN CHỨC NĂNG**
 
-#### ➤ Thực hiện:
+Hướng dẫn các thao tác cơ bản để vận hành trung tâm gia sư trên ứng dụng, bao gồm 2 phần chính:
 
-* Chọn **Sản phẩm**
-* Chọn **Thêm sản phẩm**
+* Thiết lập dữ liệu khóa học: Tạo danh mục môn học và thêm các lớp học / khóa học cụ thể.
+* Đăng ký học viên: Ghi nhận học viên mới, xếp lịch học, thu học phí và in biên lai.
 
-#### ➤ Nhập thông tin:
+**Phần 1: Thiết lập Môn học và Khóa học**
 
-* Tên dịch vụ
-* Số lượng _(nếu cần)_
-* Giá bán
+Để quản lý dễ dàng, bạn cần thiết lập danh sách các môn và các lớp học cụ thể đang được giảng dạy tại trung tâm.
 
-#### ⚠️ Lưu ý:
+**Bước 1: Tạo Nhóm hàng (Danh mục môn học)**
 
-* **Không nhập giá nhập**
-* **Không khởi tạo kho**
+Phân loại các lớp học theo từng môn học để dễ dàng quản lý.
 
-👉 Vì đây là **dịch vụ → không quản lý tồn kho**
+1. Tại màn hình Trang chủ, chọn mục Sản phẩm.
 
-***
+<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="236"><figcaption></figcaption></figure>
 
-### Bước 2: Bán dịch vụ
+2. Nhấn vào biểu tượng dấu (+) ở góc phải màn hình và Chọn Thêm nhóm hàng.
 
-#### ➤ Thực hiện:
+<div><figure><img src="../../.gitbook/assets/image (55).png" alt="" width="234"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (56).png" alt="" width="235"><figcaption></figcaption></figure></div>
 
-* Trang chủ → **Bán hàng**
+3. Nhận tên môn học vào ô Tên nhóm hàng (Ví dụ: "Vật lý", "Toán", "Tiếng Anh") và nhấn nút Tạo nhóm sản phẩm để hoàn tất.
 
-#### ➤ Tùy chọn nhanh:
+<figure><img src="../../.gitbook/assets/image (57).png" alt="" width="234"><figcaption></figcaption></figure>
 
-* Nhấn **3 chấm** → Quét mã vạch
-* Nhấn **Micro** → Tạo đơn bằng giọng nói
+**Bước 2: Thêm sản phẩm (Khóa học /** **Lớp học chi tiết)**
 
-#### ➤ Tạo đơn:
+Tạo các lớp học cụ thể với giáo viên và mức học phí tương ứng.
 
-* Tích **Khách lẻ**
-* Nhập tên khách hàng
+1. Tại màn hình sản phẩm, tiếp tục nhấn vào biểu tượng dấu (+) và nhấn Thêm sản phẩm.
 
-#### ➤ Thêm dịch vụ:
+<div><figure><img src="../../.gitbook/assets/image (58).png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (59).png" alt="" width="234"><figcaption></figcaption></figure></div>
 
-* Chọn dịch vụ cần bán
+2. Điền các thông tin của lớp học:
 
-#### ➤ Chiết khấu (nếu có):
+&#x20;\- Tên sản phẩphẩm: Nên ghi rõ Tên lớp - Môn học - Tên giáo viên để dễ phân biệt (Ví dụ: "L8"- Vật lý    - Cô Hà").
 
-* Nhập:
-  * % giảm giá
-  * hoặc số tiền giảm
+&#x20;\- Đơn vị tính: Nhập thời gian thu học phí (Ví dụ: "Tháng" hoặc "Khóa").
 
-#### ➤ Thanh toán:
+&#x20;\- Giá bán lẻ: Nhập mức học phí của lớp học đó (Ví dụ: "500.000").
 
-* Chọn hình thức thanh toán
+<figure><img src="../../.gitbook/assets/image (60).png" alt="" width="238"><figcaption></figcaption></figure>
 
-#### ➤ Hoàn tất:
+&#x20;\- Nhóm hàng: Nhấn vào mục Chọn nhóm hàng và chọn môn học tương ứng đã tạo Bước (Ví dụ: Vật  lý).
 
-* Nhấn **Tạo đơn**
+<figure><img src="../../.gitbook/assets/image (61).png" alt="" width="240"><figcaption></figcaption></figure>
 
-Hướng dẫn xem chi tiết tại: [https://youtube.com/shorts/PC4vMResiIM?si=JNOGNzOLwk38xhhN](https://youtube.com/shorts/PC4vMResiIM?si=JNOGNzOLwk38xhhN)
+3. Cài đặt Kho hàng (Quan trọng): Kéo xuống dưới, bạn bắt buộc phải công tắc Cho phép bán âm  (chuyển sang màu xanh). Khóa học là dịch vụ, không phải hàng hóa vật lý nên không có số lượng tồn kho. Sau đó nhấn Tạo SP ở cuối màn hình để lưu lại.
 
-***
+<figure><img src="../../.gitbook/assets/image (63).png" alt="" width="240"><figcaption></figcaption></figure>
 
-## Lưu ý
+**Phần 2: Đăng ký khóa học và Thu học phí**
 
-* Dịch vụ **không liên quan kho**
-* Không cần nhập hàng hay kiểm kho
-* Có thể kết hợp:
-  * Giảm giá
-  * Bán nhiều dịch vụ trong 1 đơn
+Khi có học viên đến đăng ký đóng học phí, bạn thực hiện quy trình sau:
+
+**Bước 1: Tạo đơn đăng ký cho học viên**
+
+1. Tại màn hình Trang chủ, nhấn vào nút Bán hàng (màu xanh lá cây).
+
+<figure><img src="../../.gitbook/assets/image (64).png" alt="" width="233"><figcaption></figcaption></figure>
+
+2. Nhập tên học viên ô Nhập tên khách (Ví dụ: "Trâm"). Lưu ý: Với trung tâm gia sư, việc lưu tên khách hàng là rất cần thiết để theo dõi.
+
+<figure><img src="../../.gitbook/assets/image (65).png" alt="" width="232"><figcaption></figcaption></figure>
+
+3. Tại phần chọn sản phẩm, chạm vào biểu tượng của khóa học mà học viên muốn đăng ký (Ví dụ: "L8 - Vật lý - Cô Hà"). Và nhấn nút Tiếp tục đơn hàng ở cạnh dưới màn hình.
+
+<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="229"><figcaption></figcaption></figure>
+
+Bước 2: Thêm ghi chú lịch học (Quan trọng)
+
+1. Tại màn hình chi tiết đơn, kéo xuống mục Ghi chú.
+2. Nhập thông tin chi tiết về lịch học viên để in ra biên lai hoặc lưu trữ theo dõi.
+
+* Ví dụ: "10 buổi - Thứ 3 - 19h" (Học 10 buổi, thứ 3 hàng tuần 19h).
+
+<figure><img src="../../.gitbook/assets/image (67).png" alt="" width="229"><figcaption></figcaption></figure>
+
+Bước 3: Thanh toán và in biên lai
+
+1. Kiểm tra lại Tổng tiền thanh toán (học phí)
+2. Chọn hình thức thanh toán (Tiền mặt, Chuyển khoản, quẹt thẻ).
+3. Nhấn Nút tạo đơn
+
+<figure><img src="../../.gitbook/assets/image (68).png" alt="" width="231"><figcaption></figcaption></figure>
+
+4. Màn hình sẽ hiển thị Hóa đơn bán hàng. Nhấn nút In hóa đơn ở góc phải dưới để in biên lai cho học viên.
+
+<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="229"><figcaption></figcaption></figure>
 
