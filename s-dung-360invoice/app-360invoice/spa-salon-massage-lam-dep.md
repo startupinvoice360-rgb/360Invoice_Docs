@@ -119,10 +119,14 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 
 * Trang chủ → **Bán hàng**
 
+<figure><img src="../../.gitbook/assets/IMG_8688[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Tính năng hỗ trợ:
 
 * Quét mã vạch → Nhấn **3 chấm**
 * Tạo đơn bằng giọng nói → Nhấn **micro**
+
+<figure><img src="../../.gitbook/assets/IMG_8685[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Chọn khách hàng:
 
@@ -130,11 +134,16 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 
 * Tích **Khách lẻ**
 * Nhập tên
+*
+
+    <figure><img src="../../.gitbook/assets/IMG_8686[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 **Khách hàng có sẵn:**
 
 * Chọn khách hàng
 * Hoặc nhấn **Tạo mới**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8685[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8687[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Tạo đơn:
 
