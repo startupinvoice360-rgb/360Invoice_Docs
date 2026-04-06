@@ -11,14 +11,17 @@ Cách thực hiện
 #### ➤ Truy cập:
 
 * Chọn **Sản phẩm**
-*
 
-    <figure><img src="../../.gitbook/assets/IMG_8602[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/IMG_8602[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Trường hợp 1: Đã có file sản phẩm
 
 * Chọn **Upload file Excel**
 * Tải file lên hệ thống
+
+<figure><img src="../../.gitbook/assets/IMG_8604[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Trường hợp 2: Chưa có file
 

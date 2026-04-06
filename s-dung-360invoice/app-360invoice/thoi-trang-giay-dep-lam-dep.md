@@ -10,15 +10,24 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 
 * Chọn **Sản phẩm**
 
+<figure><img src="../../.gitbook/assets/IMG_8602[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Trường hợp 1: Đã có file sản phẩm
 
 * Chọn **Upload file Excel**
 * Tải file lên hệ thống
 
+<figure><img src="../../.gitbook/assets/IMG_8604[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Trường hợp 2: Chưa có file
 
 * Chọn **Thêm sản phẩm**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8603[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8604[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 * Nhập thông tin:
+
+<figure><img src="../../.gitbook/assets/IMG_8607[1].PNG" alt="" width="188"><figcaption></figcaption></figure>
 
 **Thông tin chính:**
 
@@ -40,13 +49,13 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 * Bật **Khởi tạo kho hàng**
 * Nhập **số lượng sản phẩm hiện có**
 
-
-
 ### Bước 2: Tích hợp máy in
 
 #### ➤ Truy cập:
 
 * Trang chủ → **Cài đặt** → **Hệ thống** → **Máy in**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8623[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8627[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8628[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Cài đặt:
 
@@ -55,6 +64,8 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
   * Bluetooth
   * WiFi
   * USB
+
+<div><figure><img src="../../.gitbook/assets/IMG_8629[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8630[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Xác nhận:
 
@@ -71,10 +82,14 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 * Chọn **In mã vạch**
 * Chọn sản phẩm cần in
 
+<div><figure><img src="../../.gitbook/assets/IMG_8631[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8632[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### ➤ In:
 
 * Nhấn biểu tượng **máy in** (góc phải trên)
 * Chọn **In mã vạch**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8633[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8634[1] (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Bước 4: Thêm nhà cung cấp
 
@@ -82,11 +97,15 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 
 * Trang chủ → Chọn **Nhập**
 
+<figure><img src="../../.gitbook/assets/IMG_8602[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Thực hiện:
 
 * Chọn **Thêm mới nhà cung cấp**
 * Nhập thông tin cần thiết
 * Lưu lại
+
+<div><figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Bước 5: Nhập hàng
 

@@ -4,18 +4,14 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 
 # Nhà Hàng/Quán
 
-### Bước 1: Thêm sản phẩm (Hàng hóa)
+### Bước 1: Thêm menu
 
 #### ➤ Thực hiện:
 
-* Chọn **Hàng hóa**
-* Chọn **Thêm mặt hàng**
-* Chọn loại **Mặt hàng**
+* Chọn **Menu**
+* Chọn **Thêm thực đơn**
 
-#### ➤ Áp dụng cho:
-
-* Sản phẩm bán trực tiếp (không chế biến)
-* Nguyên liệu dùng để tạo món
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8637[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8636[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Nhập thông tin:
 
@@ -34,22 +30,33 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Nhóm hàng
   * Nhấn **(+)** để tạo nhóm
 
-#### ➤ Khởi tạo tồn kho:
+<figure><img src="../../.gitbook/assets/IMG_8640[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
-* Chọn **Khởi tạo kho**
-* Nhập số lượng hiện có trong kho
+#### ➤ Khởi tạo nhóm hàng:
 
-### Bước 2: Thêm phòng / bàn
+* Chọn **Chọn nhóm hàng**&#x20;
+* Nhấn chọn dấu **+**
+* Nhập thông tin nhóm hàng
+* Nhấn nút **Tạo nhóm hàng hóa**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8640[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8641[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8642[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+### Bước 2: Thêm mặt hàng (nguyên liệu)
 
 #### ➤ Thực hiện:
 
-* Trang chủ → **Phòng**
+* Trang chủ → **Mặt hàng**
 * Nhấn **(+)** để thêm khu vực
+* Chọn **Thêm hàng hóa**
+* Nhập đầy đủ thông tin hàng hóa vào
+
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8643[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8644[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8649[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Thiết lập:
 
-* Chọn **Thêm phòng**
-* Chọn **Thêm bàn**
+* Chọn thêm nhẫn hiệu:
+
+<div><figure><img src="../../.gitbook/assets/IMG_8649[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8650[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8651[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Bước 3: Nhập hàng
 
@@ -59,10 +66,14 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Chọn **Thêm mới nhà cung cấp**
 * Nhập thông tin → Nhấn **Tạo mới**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (2).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### ➤ Tạo đơn nhập:
 
 * Chọn **Chọn sản phẩm**
 * Nhập số lượng
+
+<div><figure><img src="../../.gitbook/assets/IMG_8654[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8657[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Trường hợp đặc biệt:
 
@@ -88,12 +99,16 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Chọn sản phẩm
 * Nhấn **3 chấm** → **Kiểm kho**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (3).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8658[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8659[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### ➤ Cập nhật:
 
 * Nhập lại số lượng đúng
 * Nhấn **Cân bằng kho**
 
-### Bước 5: Thêm menu (món/dịch vụ)
+<figure><img src="../../.gitbook/assets/IMG_8660[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
+### Bước 5: Thêm nguyên liệu cho sản phẩm&#x20;
 
 #### ➤ Thực hiện:
 
