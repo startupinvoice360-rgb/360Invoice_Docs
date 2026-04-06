@@ -1,64 +1,26 @@
----
-description: Thêm dịch vụ → Bán hàng
----
-
 # Khu vui chơi
 
-### Bước 1: Thêm dịch vụ
+1. **Giới thiệu**
 
-#### ➤ Thực hiện:
+Chức năng này giúp bạn:
 
-* Chọn **Sản phẩm**
-* Chọn **Thêm sản phẩm**
+* Quản lý khu vực / bàn / phòng
+* Tạo và theo dõi đơn cho khách
+* Kiểm soát trạng thái sử dụng
 
-#### ➤ Nhập thông tin:
+2. **Tổng quan sử dụng**
 
-* Tên dịch vụ
-* Số lượng _(nếu cần)_
-* Giá bán
+<div><figure><img src="../../.gitbook/assets/image (31).png" alt="" width="231"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (32).png" alt="" width="235"><figcaption></figcaption></figure></div>
 
-#### ⚠️ Lưu ý:
+**Hiển thị danh sách khu vực / bàn**
 
-* **Không nhập giá nhập**
-* **Không khởi tạo kho**
+Trạng thái:
 
-👉 Dịch vụ **không quản lý tồn kho**
+* Còn trống
+* Đang sử dụng
 
-***
+Và các nút thao tác chính
 
-### Bước 2: Bán dịch vụ
+3. **Các bước sử dụng**
 
-#### ➤ Thực hiện:
-
-* Trang chủ → **Bán hàng**
-
-#### ➤ Tùy chọn:
-
-* Nhấn **3 chấm** → Quét mã vạch
-* Nhấn **Micro** → Tạo đơn bằng giọng nói
-
-#### ➤ Tạo đơn:
-
-* Tích **Khách lẻ**
-* Nhập tên khách hàng
-
-#### ➤ Thêm dịch vụ:
-
-* Chọn dịch vụ cần bán
-
-#### ➤ Chiết khấu (nếu có):
-
-* Nhập:
-  * % giảm giá
-  * hoặc số tiền giảm
-
-#### ➤ Thanh toán:
-
-* Chọn hình thức thanh toán
-
-#### ➤ Hoàn tất:
-
-* Nhấn **Tạo đơn**
-
-Hướng dẫn chi tiết xem tại: [https://youtube.com/shorts/4oea-D2B2ck?si=8HVWkbPEMv4Zvy\_D](https://youtube.com/shorts/4oea-D2B2ck?si=8HVWkbPEMv4Zvy_D)
-
+Bước 1: Tạo khu vực
