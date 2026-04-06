@@ -94,6 +94,8 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 * Chọn **Thêm mới nhà cung cấp**
 * Nhập thông tin → Nhấn **Tạo mới**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### ➤ Tạo đơn nhập:
 
 * Chọn **Chọn sản phẩm**

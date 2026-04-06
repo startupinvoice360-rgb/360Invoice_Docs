@@ -113,11 +113,15 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 
 * Trang chủ → **Nhập**
 
+<figure><img src="../../.gitbook/assets/IMG_8602[1] (1).png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Tạo đơn:
 
 * Chọn **Tạo mới**
 * Chọn **Chọn sản phẩm**
 * Nhập số lượng
+
+<div><figure><img src="../../.gitbook/assets/IMG_8681[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8682[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8683[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Trường hợp đặc biệt:
 
@@ -137,10 +141,14 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 
 * Trang chủ → **Bán hàng**
 
+<figure><img src="../../.gitbook/assets/IMG_8688[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### ➤ Tính năng hỗ trợ:
 
 * Quét mã vạch → Nhấn **3 chấm**
 * Tạo đơn bằng giọng nói → Nhấn **micro**
+
+<figure><img src="../../.gitbook/assets/IMG_8685[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### ➤ Chọn khách hàng:
 
@@ -149,10 +157,14 @@ description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC
 * Tích **Khách lẻ**
 * Nhập tên
 
+<figure><img src="../../.gitbook/assets/IMG_8686[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 **Khách bán buôn:**
 
 * Chọn khách hàng
 * Hoặc **Tạo mới**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8685[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8687[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Tạo đơn:
 
