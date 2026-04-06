@@ -48,4 +48,38 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 
 * Cài đặt Kho hàng (**Quan trọng**): Tùy thuộc vào loại sản phẩm, bạn cần vuốt xuống dưới và thiết lập tính năng kho cho phù hợp theo bảng sau:
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (44).png" alt="" width="126"><figcaption></figcaption></figure></div>
+
+* Nhấn nút Tạo SP ở cuối màn hình để hoàn tất.
+
+**PHẦN 2: THAO TÁC BÁN HÀNG VÀ THANH TOÁN**
+
+Khi khách hàng đến mua vé hoặc đồ ăn, bạn sẽ thực hiện các thao tác sau:
+
+**Bước 1: Tạo đơn hàng**
+
+&#x20;1\.  Tại màn hình Trang chủ, nhấn vào nút Bán hàng (màu xanh lá cây)
+
+<figure><img src="../../.gitbook/assets/image (45).png" alt="" width="125"><figcaption></figcaption></figure>
+
+2. Nhập tên khách hàng vào ô Nhập tên khách (Ví dụ: "Minh"). _Lưu ý: Có thể bỏ qua nếu là khách vãng lai không cần lưu tên._
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="125"><figcaption></figcaption></figure>
+
+3. Tại phần Chọn sản phẩm, chạm vào biểu tượng của các sản phẩm khách muốn mua (Ví dụ: chạm vào ảnh Xúc xích và Vé xe lửa) và nhấn Tiếp tục đơn hàng ở cạnh dưới màn hình.
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="122"><figcaption></figcaption></figure>
+
+**Bước 2: Điều chỉnh số lượng và Thanh toán**
+
+1. Điều chỉnh số lượng mua: Tại danh sách các món đã chọn, nhấn dấu (+) để tăng số lượng hoặc dấu (-) để giảm số lượng cho từng mặt hàng. Hệ thống sẽ tự động cộng dồn Tổng tiền. Sau đó kiểm tra lại tổng tiền thanh toán của khách.
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="125"><figcaption></figcaption></figure>
+
+2. Chạm vào mục Hình thức T.Toán để chọn cách khách trả tiền (Tiền mặt, Chuyển khoản hoặc Quẹt thẻ). Và nhấn nút Tạo đơn.
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="125"><figcaption></figcaption></figure>
+
+3. Màn hình sẽ hiển thị Hóa đơn báng hàng chi tiết. Lúc này, bạn      chỉ cần nhấn In hóa đơn để đưa cho khách và hoàn tất quy trình.
+
+<figure><img src="../../.gitbook/assets/image (52).png" alt="" width="123"><figcaption></figcaption></figure>
