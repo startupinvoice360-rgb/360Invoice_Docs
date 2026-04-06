@@ -12,12 +12,16 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 * Nhấn **3 chấm** (góc phải trên)
 * Chọn **Danh mục**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8666[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8667[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### ➤ Tạo nhóm:
 
 * Nhấn **3 chấm** (góc phải trên)
 * Chọn **Tạo mới**
 * Nhập **tên nhóm**
 * Nhấn **Tạo nhóm mặt hàng**
+
+<div><figure><img src="../../.gitbook/assets/IMG_8670[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8668[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8669[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Bước 2: Thêm sản phẩm
 
@@ -30,16 +34,22 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 * Trang chủ → **Hàng hóa**
 * Nhấn **(+)** → **Thêm mặt hàng**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8671[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8672[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### Nhập thông tin:
 
 * Tên mặt hàng
 * Giá bán lẻ
 * Giá nhập
 
+<figure><img src="../../.gitbook/assets/IMG_8676[1].png" alt="" width="188"><figcaption></figcaption></figure>
+
 #### Khởi tạo kho:
 
 * Bật **Khởi tạo kho hàng**
 * Nhập **tồn kho ban đầu**
+
+<figure><img src="../../.gitbook/assets/IMG_8677[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
 #### Hoàn tất:
 
@@ -54,6 +64,8 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 * Trang chủ → **Hàng hóa**
 * Nhấn **(+)** → **Thêm mặt hàng**
 
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8671[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8672[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+
 #### Nhập thông tin:
 
 * Tên mặt hàng
@@ -67,6 +79,8 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 #### Thiết lập:
 
 * Chọn **Nhóm hàng: Dịch vụ**
+
+<div><figure><img src="../../.gitbook/assets/image.png" alt="" width="83"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="79"><figcaption></figcaption></figure></div>
 
 #### Hoàn tất:
 
