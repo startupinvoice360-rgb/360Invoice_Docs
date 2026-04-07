@@ -18,11 +18,11 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 * Tại màn hình **Trang chủ**, chọn mục **Sản phẩm**.
 * Nhấn vào biểu tượng dấu (+) ở góc phải màn hình.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt="" width="124"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt="" width="124"><figcaption></figcaption></figure>
 
 * Chọn Thêm nhóm hàng và nhập tên nhóm hàng (Ví dụ: "Vé" hoặc "Thức ăn").
 
-<div><figure><img src="../../.gitbook/assets/image (35).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (37).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (38).png" alt="" width="127"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (35) (1).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (37) (1).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (38) (1).png" alt="" width="127"><figcaption></figcaption></figure></div>
 
 * Nhấn nút **Tạo nhóm sản** phẩm để lưu lại
 
@@ -33,7 +33,7 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 * Tại màn hình sản phẩm, tiếp tục nhấn vào biểu tượng dấu (+).
 * Chọn Thêm sản phẩm.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt="" width="123"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt="" width="123"><figcaption></figcaption></figure>
 
 * **Điền các thông tin cơ bản:**
 
@@ -41,14 +41,14 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 2. Đơn vị tính: Nhập đơn vị tương ứng (Ví dụ "Cái", "Lượt", "Vé").
 3.  Giá bán lẻ: Nhập giá tiền bán cho khách.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (41).png" alt="" width="127"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (41) (1).png" alt="" width="127"><figcaption></figcaption></figure>
 4. Nhóm hàng: Nhấn vào mục Chọn nhóm hàng và tích chọn nhóm phù hợp đã tạo ở Bước 1.
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="124"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt="" width="124"><figcaption></figcaption></figure>
 
 * Cài đặt Kho hàng (**Quan trọng**): Tùy thuộc vào loại sản phẩm, bạn cần vuốt xuống dưới và thiết lập tính năng kho cho phù hợp theo bảng sau:
 
-<div><figure><img src="../../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (44).png" alt="" width="126"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (40) (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (44).png" alt="" width="126"><figcaption></figcaption></figure></div>
 
 * Nhấn nút Tạo SP ở cuối màn hình để hoàn tất.
 
@@ -83,3 +83,8 @@ Khi khách hàng đến mua vé hoặc đồ ăn, bạn sẽ thực hiện các 
 3. Màn hình sẽ hiển thị Hóa đơn báng hàng chi tiết. Lúc này, bạn      chỉ cần nhấn In hóa đơn để đưa cho khách và hoàn tất quy trình.
 
 <figure><img src="../../.gitbook/assets/image (52).png" alt="" width="123"><figcaption></figcaption></figure>
+
+**Lưu ý và Mẹo cho người mới**
+
+* Kiểm tra kỹ loại hàng hóa: Hãy luôn nhớ phân biệt rõ mặt hàng nào cần kiểm soát số lượng tồn kho (đồ ăn, nước uống) và mặt hàng nào bán dịch vụ không giới hạn (vé vào cửa, vé trò chơi) để bật đúng công tắc ở Bước 2 phần Thiết lập.
+* Thao tác nhanh khi bán hàng: Ở màn hình Bán hàng, bạn có thể tìm kiếm nhanh sản phẩm bằng thanh tìm kiếm thay vì vuốt tìm thủ công nếu danh sách sản phẩm quá dài.

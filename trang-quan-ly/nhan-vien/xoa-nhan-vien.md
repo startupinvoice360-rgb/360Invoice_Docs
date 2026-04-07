@@ -10,4 +10,4 @@ Bước 2: Lựa chọn "**Delete**" để xóa nhân viên hoặc chọn "**Can
 
 Bước 3: Kiểm tra danh sách nhân viên, nếu không thấy nhân viên đó nữa thì đã xóa nhân viên thành công.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>

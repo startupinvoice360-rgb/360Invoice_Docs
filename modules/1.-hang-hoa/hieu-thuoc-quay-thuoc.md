@@ -1,2 +1,0 @@
-# Hiệu thuốc - Quầy thuốc
-

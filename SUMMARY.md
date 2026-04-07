@@ -51,12 +51,3 @@
   * [Thuê nhà - Mặt bằng - Kho bãi](s-dung-360invoice/app-360invoice/thue-nha-mat-bang-kho-bai.md)
   * [Giáo dục - Dạy học - Gia sư - Trung tâm](s-dung-360invoice/app-360invoice/giao-duc-day-hoc-gia-su-trung-tam.md)
   * [Khu vui chơi](s-dung-360invoice/app-360invoice/khu-vui-choi.md)
-
-## Modules
-
-* [1. Hàng hóa](modules/1.-hang-hoa/README.md)
-  * [Tạp hóa - Siêu thị mini - Đại lý](modules/1.-hang-hoa/tap-hoa-sieu-thi-mini-dai-ly.md)
-  * [Thời trang - Giày dép - Phụ kiện](modules/1.-hang-hoa/thoi-trang-giay-dep-phu-kien.md)
-  * [Mỹ phẩm - Nước hoa - Skincare](modules/1.-hang-hoa/my-pham-nuoc-hoa-skincare.md)
-  * [Hiệu thuốc - Quầy thuốc](modules/1.-hang-hoa/hieu-thuoc-quay-thuoc.md)
-  * [Điện máy - Điện thoại - Laptop - Thiết bị số](modules/1.-hang-hoa/dien-may-dien-thoai-laptop-thiet-bi-so.md)
