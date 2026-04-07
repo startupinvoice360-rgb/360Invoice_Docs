@@ -4,135 +4,125 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 # Sửa chữa - Lắp đặt - điện nước - điện lạnh
 
-### Bước 1: Thêm sản phẩm
+### 1. Tạo nhóm mặt hàng
 
-#### ➤ 1.1 Sản phẩm vật lý
+* Bước 1: Vào mục Hàng hóa -> Nhấn dấu cộng (+) -> Chọn Thêm nhóm mặt hàng.
 
-**Áp dụng:** Hàng hóa có tồn kho
+<div><figure><img src="../../.gitbook/assets/image (178).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (179).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (181).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-#### Thực hiện:
+* Bước 2: Đặt tên nhóm thứ nhất (VD: "Sản phẩm vật lý") -> Nhấn Tạo nhóm mặt hàng.
 
-* Chọn **Sản phẩm**
-* Truy cập danh sách sản phẩm
+<figure><img src="../../.gitbook/assets/image (182).png" alt="" width="165"><figcaption></figcaption></figure>
 
-#### Trường hợp 1: Đã có file
+* Bước 3: Nhấn vào dấu Ba chấm (...) ở góc -> Chọn Tạo mới -> Tạo thêm nhóm thứ hai (VD: "Dịch vụ") -> Nhấn Tạo nhóm mặt hàng.
 
-* Chọn **Upload file Excel**
-* Tải file lên hệ thống
+<div><figure><img src="../../.gitbook/assets/image (183).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (184).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (182).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-#### Trường hợp 2: Thêm thủ công
+### 2. Thêm mặt hàng mới (Sản phẩm & Dịch vụ)
 
-* Chọn **Thêm sản phẩm**
+#### Đối với sản phẩm vật lý (vật tư thay thế, VD: Ống nước):
 
-#### Nhập thông tin:
+* Bước 1: Trở lại mục Hàng hóa -> Nhấn dấu (+) -> Chọn Thêm mặt hàng.
 
-**Thông tin cơ bản:**
+<div><figure><img src="../../.gitbook/assets/image (178).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (179).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (185).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-* Tên sản phẩm
-* Mã sản phẩm
-* Ảnh mã vạch _(nếu có)_
-* Đơn vị tính
-* Giá nhập
-* Giá bán lẻ
+* Bước 2: Nhập thông tin: Tên (VD: Ống nước), Đơn vị tính (VD: mét), Giá nhập và Giá bán lẻ.
 
-**Thông tin mở rộng:**
+<figure><img src="../../.gitbook/assets/image (187).png" alt="" width="163"><figcaption></figcaption></figure>
 
-* Giá bán buôn _(nếu có)_
-* Nhóm hàng
-  * Nhấn **(+)** để tạo nhóm
+* Bước 3: Chọn nhóm hàng là Sản phẩm vật lý -> Nhấn Tiếp tục.
 
-#### ➤ 1.2 Sản phẩm dịch vụ
+<div><figure><img src="../../.gitbook/assets/image (188).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (189).png" alt="" width="168"><figcaption></figcaption></figure></div>
 
-**Áp dụng:** Dịch vụ không quản lý tồn kho
+* Bước 4: Bật tính năng Khởi tạo kho hàng và điền số lượng hiện đang có trong kho (VD: 10). (Bạn có thể thêm ảnh sản phẩm nếu cần).
 
-#### Nhập thông tin:
+<div><figure><img src="../../.gitbook/assets/image (190).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (191).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-* Tên sản phẩm / dịch vụ
-* Số lượng _(nếu cần)_
-* Giá bán
+* Bước 5: Nhấn **Tạo mặt hàng**.
 
-⚠️ **Lưu ý:**
+#### Đối với dịch vụ (VD: Công sửa chữa):
 
-* Không nhập giá nhập
-* Không quản lý tồn kho
+* Bước 1: Nhấn Thêm mặt hàng.
 
-### Bước 2: Nhập hàng
+<div><figure><img src="../../.gitbook/assets/image (178).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (179).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (185).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Thực hiện:
+* Bước 2: Nhập Tên (VD: Sửa ống nước). (Phần đơn vị tính và giá nhập có thể bỏ qua).
 
-* Trang chủ → **Nhập**
-* Chọn **Thêm mới nhà cung cấp**
-* Nhập thông tin → Nhấn **Tạo mới**
+<figure><img src="../../.gitbook/assets/image (187).png" alt="" width="163"><figcaption></figcaption></figure>
 
-#### ➤ Tạo đơn nhập:
+* Bước 3: Điền Giá bán (Tức là tiền công sửa chữa, VD: 300.000đ).
+* Bước 4: Chọn nhóm hàng là Dịch vụ -> Nhấn Tiếp tục.
 
-* Chọn **Chọn sản phẩm**
-* Nhập số lượng
+<figure><img src="../../.gitbook/assets/image (192).png" alt="" width="168"><figcaption></figcaption></figure>
 
-👉 **Khuyến nghị:**
+* Bước 5: Bật tính năng Cho phép bán âm (Vì dịch vụ không có số lượng tồn kho vật lý). _Nếu không thấy mục này, bạn vào Cài đặt -> Kéo xuống bật "Cho phép bán âm" -> Lưu cài đặt._
 
-* Nên quy đổi về **đơn vị nhỏ nhất (ví dụ: viên)** để dễ quản lý
+<figure><img src="../../.gitbook/assets/image (193).png" alt="" width="167"><figcaption></figcaption></figure>
 
-#### ➤ Trường hợp đặc biệt:
+* Bước 6: Nhấn **Tạo mặt hàng**.
 
-* Nếu giá nhập thay đổi → nhập giá mới
+### 3. Nhập hàng (Nhập thêm vật tư)
 
-#### ➤ Thanh toán:
+* Bước 1: Chọn mục Nhập hàng ở màn hình trang chủ.
 
-* Chọn hình thức thanh toán
+<figure><img src="../../.gitbook/assets/image (102).png" alt="" width="164"><figcaption></figcaption></figure>
 
-#### ➤ Hoàn tất:
 
-* Nhấn **Tạo đơn**
 
-### Bước 3: Chỉnh sửa số lượng (Kiểm kho)
+* Bước 2: Thêm nhà cung cấp bằng cách nhấn Thêm mới nhà cung cấp -> Điền Tên, Số điện thoại -> Nhấn Tạo mới.
+*
 
-#### ➤ Khi sử dụng:
+    <div><figure><img src="../../.gitbook/assets/image (103).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (104).png" alt="" width="164"><figcaption></figcaption></figure></div>
+* Bước 3: Chọn sản phẩm vật lý cần nhập (VD: Ống nước) -> Nhấn Tiếp tục đơn hàng.
 
-* Khi số lượng thực tế ≠ hệ thống
+<div><figure><img src="../../.gitbook/assets/image (194).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (195).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Thực hiện:
+* Bước 4: Nhập số lượng muốn nhập thêm (VD: 15 mét).
 
-* Trang chủ → **Kho**
-* Chọn sản phẩm
-* Nhấn **3 chấm** → **Kiểm kho**
+<figure><img src="../../.gitbook/assets/image (196).png" alt="" width="166"><figcaption></figcaption></figure>
 
-#### ➤ Cập nhật:
+* Bước 5: Chọn hình thức thanh toán (Tiền mặt, Chuyển khoản, Quẹt thẻ). _(Có thể tùy chỉnh ngày giờ nếu bạn nhập lại hóa đơn từ ngày hôm trước)._
 
-* Nhập lại số lượng đúng
+<div><figure><img src="../../.gitbook/assets/image (108).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (109).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-👉 **Lưu ý quan trọng:**
+* Bước 6: Nhấn **Tạo hóa đơn** để lưu phiếu nhập.
 
-* Nên quy đổi về **đơn vị nhỏ nhất (viên, cái, ml...)**
+### 4. Kiểm kho (Điều chỉnh số lượng thực tế)
 
-#### ➤ Hoàn tất:
+* Bước 1: Chọn mục Kho từ trang chủ.
 
-* Nhấn **Cân bằng kho**
+<figure><img src="../../.gitbook/assets/image (110).png" alt="" width="164"><figcaption></figcaption></figure>
 
-### Bước 4: Lên đơn / Bán hàng
+* Bước 2: Chọn sản phẩm cần kiểm tra (VD: Ống nước) -> Nhấn vào dấu Ba chấm (...) -> Chọn Kiểm kho.
+*
 
-#### ➤ Thực hiện:
+    <div><figure><img src="../../.gitbook/assets/image (111).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (113).png" alt="" width="164"><figcaption></figcaption></figure></div>
+* Bước 3: Điền số lượng thực tế hiện tại bạn đếm được trong kho (VD: 20).
+*
 
-* Trang chủ → **Tạo đơn**
+    <figure><img src="../../.gitbook/assets/image (115).png" alt="" width="166"><figcaption></figcaption></figure>
+* Bước 4: Nhấn **Cân bằng kho**, hệ thống sẽ tự động điều chỉnh số lượng và tạo ra phiếu kiểm kho.
 
-#### ➤ Nhập thông tin:
+### 5. Bán hàng (Lên đơn thanh toán cho khách)
 
-* Chọn **Khách lẻ**
-* Nhập tên khách hàng
+* Bước 1: Chọn mục Tạo đơn.
 
-#### ➤ Thêm sản phẩm:
+<figure><img src="../../.gitbook/assets/image (197).png" alt="" width="163"><figcaption></figcaption></figure>
 
-* Chọn:
-  * Sản phẩm vật lý
-  * Sản phẩm dịch vụ
+* Bước 2: Điền thông tin khách hàng (VD: Khách lẻ, tên Nam).
 
-#### ➤ Thanh toán:
+<figure><img src="../../.gitbook/assets/image (198).png" alt="" width="163"><figcaption></figcaption></figure>
 
-* Chọn hình thức thanh toán
+* Bước 3: Chọn các mặt hàng đưa vào đơn. Thường sẽ bao gồm cả Dịch vụ (Công sửa chữa) và Sản phẩm vật lý (Vật tư dùng để thay thế) -> Nhấn Tiếp tục đơn hàng.
 
-#### ➤ Hoàn tất:
+<figure><img src="../../.gitbook/assets/image (199).png" alt="" width="164"><figcaption></figcaption></figure>
 
-* Nhấn **Tạo hóa đơn**
+* Bước 4: Điền số lượng vật tư thực tế đã dùng để thay cho khách (VD: 3 mét ống nước). Hệ thống sẽ tự động cộng tiền công và tiền vật tư thành tổng hóa đơn.
+
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+
+* Bước 5: Chọn hình thức thanh toán.
+* Bước 6: Nhấn Tạo hóa đơn để hoàn tất.
 
 **Hướng dẫn xem chi tiết tại:** [**https://youtu.be/hzEDtfXpvn0?si=UwyAU6hG3AdSfLRe**](https://youtu.be/hzEDtfXpvn0?si=UwyAU6hG3AdSfLRe)
 

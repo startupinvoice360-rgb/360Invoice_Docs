@@ -1,86 +1,80 @@
----
-description: Tạo dịch vụ → Ghi nhận chi phí → Bán dịch vụ
----
-
 # Vận tải - Xe tải - Xe ship
 
-### Bước 1: Thêm dịch vụ
+**Tổng quan chức năng**
 
-#### ➤ Thực hiện:
+Hướng dẫn cách sử dụng ứng dụng để quản lý dịch vụ vận tải, bao gồm 3 phần chính:
 
-* Chọn **Sản phẩm**
-* Chọn **Thêm sản phẩm**
+1. Thiết lập dịch vụ: Khai báo các loại xe hoặc dịch vụ vận chuyển.
+2. Ghi nhận chi phí: Quản lý các khoản chi tiêu phát sinh như tiền đổ xăng, sửa xe.
+3. Thu cước vận chuyển: Tạo đơn hàng, tính tiền cước cho khách in hóa đơn.
 
-#### ➤ Nhập thông tin:
+Phần 1: Khai báo Dịch vụ vận tải (Thêm sản phẩm)
 
-* Tên dịch vụ
-* Số lượng _(nếu cần)_
-* Giá bán
+Bước này giúp bạn thiết lập mức giá cước vận chuyển (theo Km hoặc theo chuyến) vào hệ thống.
 
-#### ⚠️ Lưu ý:
+1. Tại màn hình Trang chủ, chọn mục **Sản phẩm.**
 
-* **Không nhập giá nhập**
-* **Không khởi tạo kho**
+<figure><img src="../../.gitbook/assets/image (123).png" alt="" width="251"><figcaption></figcaption></figure>
 
-👉 Vì dịch vụ **không quản lý tồn kho**
+2. Nhấn vào biểu tượng dấu (+), chọn Thêm sản phẩm và điền các thông tin của dịch vụ:
 
-### Bước 2: Ghi nhận chi phí dịch vụ
+* Tên sản phẩm: Nhập tên dịch vụ (Ví dụ: "Thuê xe tải" hoặc "Xe tải biển số A").
+* Đơn vị tính: Nhập đơn vị đo lường cước phí (Ví dụ: "km", "chuyến", "giờ").
+* Giá bán lẻ: Nhập mức giá tương ứng với 1 đơn vị tính (Ví dụ: "15.000" đồng/km).
 
-#### ➤ Thực hiện:
+<div><figure><img src="../../.gitbook/assets/image (124).png" alt="" width="248"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (126).png" alt="" width="249"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (125).png" alt="" width="249"><figcaption></figcaption></figure></div>
 
-* Trang chủ → **Thu chi**
-* Nhấn **(+)** → **Tạo phiếu chi**
+3. Cài đặt Kho hàng (Quan trọng): Kéo xuống dưới, bạn bắt buộc phải bật công tắc Cho phép bán âm (Chuyển sang màu xanh). Do đây là dịch vụ, không phải hàng hóa vật lý nên sẽ không có số lượng tồn kho. Lưu ý: Bỏ qua phần nhập số lượng và giá nhập. Và nhấn nút Tạo SP để lưu lại.
 
-#### ➤ Nhập thông tin:
+<figure><img src="../../.gitbook/assets/image (127).png" alt="" width="254"><figcaption></figcaption></figure>
 
-* **Nhóm người nhận:** Chọn _Nhân viên_
-* **Tên người nhận**
-* **Loại phiếu:** _Chi phí nguyên liệu_
-* **Số tiền**
-* **Phương thức thanh toán**
+**Phần 2: Quản lý chi phí phát sinh (Thu/chi)**
 
-#### ➤ Hoàn tất:
+Mô hình vận tải sẽ phát sinh nhiều chi phí hàng ngày như xăng dầu, bến bãi, sửa xe. Bạn cần ghi nhận lại để theo dõi lợi nhuận chính xác.&#x20;
 
-* Nhấn **Tạo phiếu chi**
+1. Tại màn hình Trang chủ, chọn thư mục **Thu chi**
 
-### Bước 3: Bán dịch vụ
+<figure><img src="../../.gitbook/assets/image (128).png" alt="" width="247"><figcaption></figcaption></figure>
 
-#### ➤ Thực hiện:
+2. Nhấn vào biểu tượng dấu cộng (+) ở góc phải dưới, chọn nút Tạo phiếu chi (Màu đỏ).
 
-* Trang chủ → **Bán hàng**
+<figure><img src="../../.gitbook/assets/image (129).png" alt="" width="249"><figcaption></figcaption></figure>
 
-#### ➤ Tùy chọn nhanh:
+3. Điền các thông tin chi tiêu:
 
-* Nhấn **3 chấm** → Quét mã vạch
-* Nhấn **Micro** → Tạo đơn bằng giọng nói
+* Nhóm người nhận: Chọn "Nhân viên" (nếu chi cho tài xế) hoặc "Đối tượng khác".
+* Tên người nhận: Nhập tên người nhận tiền (Ví dụ: "Anh Thành").
+* Chọn loại phiếu: Nhấn vào và chọn loại chi phí phù hợp (Ví dụ: "Chi phí nguyên vật liệu", "Chi phí khác"...).
+* Số tiền chi: Nhập số tiền đã chi (Ví dụ: "500.000").
+* Ghi chú: Ghi rõ nội dung chi để sau này dễ kiểm tra (Ví dụ: "Đổ xăng xe tải").
 
-#### ➤ Tạo đơn:
+<figure><img src="../../.gitbook/assets/image (130).png" alt="" width="246"><figcaption></figcaption></figure>
 
-* Tích **Khách lẻ**
-* Nhập tên khách hàng
+4. Đảm bảo đã tick chọn ô Hoạch toán kết quả kinh doanh.
+5. Nhấn nút Tạo phiếu chi để lưu lại. Bạn có thể xem lại danh sách tất cả các khoản thu/chi ở màn hình này.
 
-#### ➤ Thêm dịch vụ:
+<div><figure><img src="../../.gitbook/assets/image (131).png" alt="" width="251"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (132).png" alt="" width="247"><figcaption></figcaption></figure></div>
 
-* Chọn dịch vụ cần bán
+**Phần 3: Tính tiền cước vận chuyển (Thao tác bán hàng)**
 
-#### ➤ Chiết khấu (nếu có):
+**Khi hoàn thành di chuyển đi và thu tiền cước của khách, bạn thực hiện các bước sau:**
 
-* Giảm theo:
-  * %
-  * hoặc số tiền
+1. **Tại màn hình Trang chủ, nhấn vào nút Bán hàng.**
 
-#### ➤ Thanh toán:
+<figure><img src="../../.gitbook/assets/image (134).png" alt="" width="251"><figcaption></figcaption></figure>
 
-* Chọn hình thức thanh toán
+2. Nhập tên khách hàng vào ô Nhập tên khách (Ví dụ: Quân).
+3. Chạm vào dịch vụ vận chuyển khách đã sử dụng (Ví dụ: Thuê xe tải) và nhấn Tiếp tục đơn hàng
 
-#### ➤ Hoàn tất:
+<div><figure><img src="../../.gitbook/assets/image (137).png" alt="" width="233"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (138).png" alt="" width="232"><figcaption></figcaption></figure></div>
 
-* Nhấn **Tạo đơn**
+4. Tại mục số lượng, nhập tổng số đơn vị tính (Km hoặc Chuyến) mà khách đã đi.
 
-**Hướng dẫn xem chi tiết tại:** [**https://youtube.com/shorts/07RrD1GONmw?si=P9Ca6fXvAXCxgFMZ**](https://youtube.com/shorts/07RrD1GONmw?si=P9Ca6fXvAXCxgFMZ)
+* Ví dụ: Xe chở hàng đi 10km, bạn đổi số 1 thành số 10. Hệ thống sẽ tự động nhân với giá cước 15.000đ/km để ra tổng tiền là 150.000đ. Sau đó chọn hình thức thanh toán (Tiền  mặt, Chuyển khoản...). Cuối cùng nhấn nút Tạo đơn.
 
-## Lưu ý quan trọng
+<figure><img src="../../.gitbook/assets/image (139).png" alt="" width="236"><figcaption></figcaption></figure>
 
-* Dịch vụ **không liên quan kho** → không nhập / không kiểm kho
-* Chi phí phải ghi qua **Thu chi → Phiếu chi**
-* Nên ghi nhận chi phí ngay để kiểm soát lợi nhuận
+5. Màn hình sẽ hiển thị Hóa đơn bán hàng. Nhấn nút In hóa đơn để xuất biên lai thu tiền gửi cho khách.
+
+<figure><img src="../../.gitbook/assets/image (140).png" alt="" width="234"><figcaption></figcaption></figure>
+
