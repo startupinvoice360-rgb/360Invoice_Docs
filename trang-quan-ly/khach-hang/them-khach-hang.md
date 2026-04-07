@@ -4,7 +4,7 @@ icon: user-circle-plus
 
 # Thêm khách hàng
 
-**Bước 1:** Tại màn hình chính, chọn <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">để chuyển sang màn hình Khách hàng:
+**Bước 1:** Tại màn hình chính, chọn <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line">để chuyển sang màn hình Khách hàng:
 
 <figure><img src="../../.gitbook/assets/addCustemer.png" alt=""><figcaption></figcaption></figure>
 
