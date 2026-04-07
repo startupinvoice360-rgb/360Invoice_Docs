@@ -4,119 +4,78 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 # Điện máy - Điện thoại - Laptop - Điện tử số
 
-### Bước 1: Thêm sản phẩm
+### 1. Thêm Sản phẩm mới
 
-#### ➤ Thực hiện:
+* Tại màn hình chính, chọn Sản phẩm.
 
-* Chọn **Sản phẩm**
-* Truy cập danh sách sản phẩm
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="164"><figcaption></figcaption></figure>
 
-#### ➤ Trường hợp 1: Đã có file sản phẩm
+* Nhấn dấu (+) để thêm mới. Bạn có thể quét mã vạch trên vỏ hộp hoặc nhập thủ công các thông tin: Tên sản phẩm, đơn vị tính, giá nhập và giá bán.
 
-* Chọn **Upload file Excel**
-* Tải file lên hệ thống
+<div><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Trường hợp 2: Thêm thủ công
+* Quản lý kho: Bật "Khởi tạo kho hàng" để điền số lượng tồn kho hiện tại .
 
-* Chọn **Thêm sản phẩm**
+<div><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Nhập thông tin:
+* Phân loại: Nếu sản phẩm có nhiều màu sắc/phiên bản, hãy bật "Thuộc tính" để thêm chi tiết (ví dụ: màu xanh, màu trắng) và cập nhật số lượng cho từng loại.
 
-* Tên sản phẩm
-* Mã sản phẩm
-* Ảnh mã vạch _(nếu có)_
-* Đơn vị tính
-* Giá nhập
-* Giá bán lẻ
+<div><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="169"><figcaption></figcaption></figure></div>
 
-#### ➤ Phân loại:
+* Nhấn **Tạo sản phẩm** để hoàn tất.
 
-* Chọn **Nhóm hàng**
-* Nhấn **(+)** để tạo nhóm mới _(nếu cần)_
+### 2. Nhập hàng
 
-#### ➤ Khởi tạo kho:
+* Chọn mục Nhập hàng.
 
-* Bật **Khởi tạo kho**
-* Nhập số lượng sản phẩm hiện có trong kho
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="164"><figcaption></figcaption></figure>
 
-### Bước 2: Nhập hàng
+* Chọn Nhà cung cấp (có thể tạo mới nếu chưa có thông tin).
 
-#### ➤ Thực hiện:
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="164"><figcaption></figcaption></figure>
 
-* Trang chủ → **Nhập**
-* Chọn **Thêm mới nhà cung cấp**
-* Nhập thông tin → Nhấn **Tạo mới**
+* Chọn sản phẩm cần nhập hoặc quét mã vạch để ứng dụng tự động nhận diện.
 
-#### ➤ Tạo đơn nhập:
+<div><figure><img src="../../.gitbook/assets/image (10).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-* Chọn **Chọn sản phẩm**
-* Nhập số lượng
+* Điền số lượng nhập, kiểm tra giá tiền và nhấn Tạo đơn để lưu phiếu nhập.
 
-#### ➤ Trường hợp đặc biệt:
+### 3. Bán hàng và Quản lý Công nợ
 
-* Nếu giá nhập thay đổi → nhập giá nhập mới
+* Chọn mục Bán hàng.
 
-#### ➤ Thanh toán:
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="164"><figcaption></figcaption></figure>
 
-* Chọn hình thức thanh toán
+* Thông tin khách hàng: Chọn khách hàng cũ hoặc tạo mới để theo dõi lịch sử mua hàng và nợ.
 
-#### ➤ Hoàn tất:
+<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="166"><figcaption></figcaption></figure>
 
-* Nhấn **Tạo đơn**
+* Chọn sản phẩm khách mua.
 
-### Bước 3: Chỉnh sửa số lượng (Kiểm kho)
+<div><figure><img src="../../.gitbook/assets/image (15).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Khi sử dụng:
+* Xử lý thanh toán: \* Nếu khách trả đủ: Nhấn Tạo đơn.
+  * Nếu khách nợ: Nhập số tiền khách trả trước, ứng dụng sẽ tự động tính toán và lưu lại số tiền còn nợ.
 
-* Khi số lượng thực tế ≠ số lượng trên hệ thống
+<div><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (19).png" alt="" width="162"><figcaption></figcaption></figure></div>
 
-#### ➤ Thực hiện:
+* Sau khi tạo đơn, bạn có thể chọn In hóa đơn để gửi cho khách.
 
-* Trang chủ → **Kho**
-* Chọn sản phẩm
-* Nhấn **3 chấm** → **Kiểm kho**
+### 4. Quản lý Đơn hàng và Trả hàng
 
-#### ➤ Cập nhật:
+* Vào mục Đơn hàng để xem lại danh sách các giao dịch.
 
-* Nhập lại số lượng đúng với thực tế
+<div><figure><img src="../../.gitbook/assets/image (20).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Hoàn tất:
+* Sửa đơn: Nhấn vào đơn hàng để chỉnh sửa thông tin hoặc xóa bớt sản phẩm.
 
-* Nhấn **Cân bằng kho**
+<div><figure><img src="../../.gitbook/assets/image (23).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (24).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-### Bước 4: Bán hàng
+* Trả hàng: Nếu khách muốn trả lại sản phẩm, chọn mục Trả hàng. Bạn có thể chọn trừ tiền trực tiếp vào công nợ hiện tại của khách hàng đó.
 
-#### ➤ Thực hiện:
+<div><figure><img src="../../.gitbook/assets/image (25).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (27).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
-* Trang chủ → **Bán hàng**
-
-#### ➤ Tùy chọn nhanh:
-
-* Nhấn **3 chấm** → Quét mã vạch
-* Nhấn **Micro** → Tạo đơn bằng giọng nói
-
-#### ➤ Tạo đơn:
-
-* Tích **Khách lẻ**
-* Nhập tên khách hàng
-
-#### ➤ Thêm sản phẩm:
-
-* Chọn sản phẩm cần bán
-
-#### ➤ Chiết khấu (nếu có):
-
-* Nhập:
-  * % giảm giá
-  * hoặc số tiền giảm
-
-#### ➤ Thanh toán:
-
-* Chọn hình thức thanh toán
-
-#### ➤ Hoàn tất:
-
-* Nhấn **Tạo đơn**
+Bạn có thể theo dõi chi tiết tình hình nợ của từng khách hàng trong mục Khách hàng để dễ dàng quản lý và thu hồi nợ.
 
 Hướng dẫn xem chi tiết tại: [https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi](https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi)
 
