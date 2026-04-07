@@ -34,4 +34,61 @@ Bước này giúp bạn đưa ra danh sách các phòng / mặt bằng vào h�
 
 <div><figure><img src="../../.gitbook/assets/image (75).png" alt="" width="233"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (76).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-**Phần 2: Khởi tạo Hợp đồng /** Kỳ hạn thuê (Thao   tácnhậ)
+**Phần 2: Khởi tạo Hợp đồng / Kỳ hạn thuê (Thao tác nhập hàng)**
+
+Khi có khách hàng chốt thuê mặt bằng, bạn dùng tính năng "Nhập hàng" để thiết lập khoảng thời gian sẽ thuê.
+
+1. Tại màn hình Trang chủ, chọn nút Nhập (màu xanh lá cây)
+
+<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="234"><figcaption></figcaption></figure>
+
+2. Tại ô Thông tin nhà cung cấp, bạn hãy nhập tên của khách thuê (Ví dụ: "Khánh Chi") kèm số điện thoại rồi nhấn Tạo mới. _(Hệ thống dùng chung trường này để quản lý thông tin khách ký hợp đồng)._&#x20;
+
+<figure><img src="../../.gitbook/assets/image (81).png" alt="" width="234"><figcaption></figcaption></figure>
+
+3. Ở phần Chọn sản phẩm, nhấn chọn mặt bằng khách muốn thuê (Ví dụ: Mặt bằng- LTT). Nhấn nút "Tiếp tục đơn hàng".
+
+<div><figure><img src="../../.gitbook/assets/image (82).png" alt="" width="236"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (83).png" alt="" width="246"><figcaption></figcaption></figure></div>
+
+4. Nhấn vào biểu tượng dấu (+) ở dòng Tạo lô mới để thiết lập thời gian thuê:
+
+<figure><img src="../../.gitbook/assets/image (84).png" alt="" width="234"><figcaption></figcaption></figure>
+
+* Mã lô: Có thể nhập "Mặt bằng" hoặc mã hợp đồng.
+* Số lượng: Nhập số tháng khách cam kết thuê (Ví dụ: 2 tháng thì nhập "2").
+* Ngày sản xuất: Chọn ngày bắt đầu tính tiền thuê.
+* Ngày hết hạn: Chọn ngày kết thúc kỳ thuê tương ứng với số tháng.
+* Nhấn Lưu.
+
+<figure><img src="../../.gitbook/assets/image (85).png" alt="" width="238"><figcaption></figcaption></figure>
+
+5. Kiểm tra lại thông tin, sau đó nhấn Tạo đơn ở cuối màn hình để xác nhận ghi nhận kỳ hạn thuê này vào hệ thống.
+
+**Phần 3: Thu tiền thuê mặt bằng (Thao tác Bán hàng)**
+
+Khi đến hạn thu tiền hoặc khách đóng tiền trước, bạn sẽ thao tác như sau:
+
+1. Tại màn hình Trang chủ, nhấn vào nút Bán hàng.
+
+<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="232"><figcaption></figcaption></figure>
+
+2. Nhập tên khách thuê vào ô Nhập tên khách (Ví dụ: "Khánh Chi"). ---> Chọn mặt bằng mà khách đang thuê ở danh sách bên dưới ---> Nhấn Tiếp tục đơn hàng.
+
+<div><figure><img src="../../.gitbook/assets/image (87).png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (88).png" alt="" width="234"><figcaption></figcaption></figure></div>
+
+3. Nhấn vào dòng Chọn lô sản phẩm. Màn hình sẽ hiển thị ra kỳ hạn thuê mà bạn đã tạo ở Phần 2.
+
+* Nhập số tháng mà khách thanh toán vào ô Số lượng (Ví dụ khách đóng 2 tháng thì nhập số "2").
+* Bấm vào dấu tick xanh bên cạnh ô số lượng.
+* Nhấn Xong ở bàn phím, sau đó nhấn Xác nhận.
+
+<div><figure><img src="../../.gitbook/assets/image (89).png" alt="" width="235"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (90).png" alt="" width="234"><figcaption></figcaption></figure></div>
+
+4. Hệ thống sẽ tự động nhân số tháng với giá tiền 1 tháng để ra Tổng tiền T.Toán (Ví dụ: 2 x 5.000.000 = 10.000.000) ---> Chọn Hình thức T.Toán (Tiền mặt, Chuyển khoản, Quẹt thẻ) ---> Nhấn nút Tạo đơn ---> Nhấn In hóa đơn để xuất phiếu thu tiền gửi cho khách thuê.
+
+<figure><img src="../../.gitbook/assets/image (91).png" alt="" width="239"><figcaption></figcaption></figure>
+
+5. Nhấn In hóa đơn để xuất phiếu thu tiền gửi cho khách thuê.
+
+<figure><img src="../../.gitbook/assets/image (92).png" alt="" width="234"><figcaption></figcaption></figure>
+
