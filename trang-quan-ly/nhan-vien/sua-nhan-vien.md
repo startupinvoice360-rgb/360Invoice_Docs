@@ -2,12 +2,12 @@
 
 Bước 1: Click vào biểu tượng "**Cây bút**" ở danh sách.
 
-<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 Bước 2: Cập nhật những thông tin cần sửa sau đó nhấn "**Save Changes**" để thay đổi
 
-<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 Bước 3: Kiểm tra ở danh sách nhân viên đã được được thay đổi thông tin là thành công.
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>

@@ -50,7 +50,7 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Chọn **Thêm hàng hóa**
 * Nhập đầy đủ thông tin hàng hóa vào
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (1) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8643[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8644[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8649[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (3).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8643[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8644[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8649[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Thiết lập:
 
@@ -66,7 +66,7 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Chọn **Thêm mới nhà cung cấp**
 * Nhập thông tin → Nhấn **Tạo mới**
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (2) (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (4).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Tạo đơn nhập:
 
@@ -99,7 +99,7 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 * Chọn sản phẩm
 * Nhấn **3 chấm** → **Kiểm kho**
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (3).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8658[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8659[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (5).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8658[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8659[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 #### ➤ Cập nhật:
 

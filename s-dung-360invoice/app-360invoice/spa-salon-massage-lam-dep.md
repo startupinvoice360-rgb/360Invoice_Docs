@@ -80,7 +80,7 @@ description: Tạo nhóm → Thêm sản phẩm → Nhập hàng → Bán hàng
 
 * Chọn **Nhóm hàng: Dịch vụ**
 
-<div><figure><img src="../../.gitbook/assets/image (42).png" alt="" width="83"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="79"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (42).png" alt="" width="83"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="79"><figcaption></figcaption></figure></div>
 
 #### Hoàn tất:
 

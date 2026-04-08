@@ -46,7 +46,7 @@
   * [Hiệu thuốc - Quầy thuốc](s-dung-360invoice/app-360invoice/hieu-thuoc-quay-thuoc.md)
   * [Sửa chữa - Lắp đặt - điện nước - điện lạnh](s-dung-360invoice/app-360invoice/sua-chua-lap-dat-dien-nuoc-dien-lanh.md)
   * [Điện máy - Điện thoại - Laptop - Điện tử số](s-dung-360invoice/app-360invoice/dien-may-dien-thoai-laptop-dien-tu-so.md)
-  * [Dịch vụ giặt là](s-dung-360invoice/app-360invoice/dich-vu.md)
+  * [Dịch vụ giặt là](s-dung-360invoice/app-360invoice/dich-vu-giat-la.md)
   * [Vận tải - Xe tải - Xe ship](s-dung-360invoice/app-360invoice/van-tai-xe-tai-xe-ship.md)
   * [Thuê nhà - Mặt bằng - Kho bãi](s-dung-360invoice/app-360invoice/thue-nha-mat-bang-kho-bai.md)
   * [Giáo dục - Dạy học - Gia sư - Trung tâm](s-dung-360invoice/app-360invoice/giao-duc-day-hoc-gia-su-trung-tam.md)
