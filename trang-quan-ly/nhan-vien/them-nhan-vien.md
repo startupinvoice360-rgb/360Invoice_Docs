@@ -1,17 +1,17 @@
 # Thêm nhân viên
 
-Bước 1: Tại màn hình trang chủ, click chọn vào mục "**Nhân viên**" ở Menu bên trái.
+### Bước 1: Tại màn hình trang chủ, click chọn vào mục "**Nhân viên**" ở Menu bên trái.
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-Bước 2: Tại trang nhân viên, click chọn "**Tạo mới**" để tạo nhân viên mới.
+### Bước 2: Tại trang nhân viên, click chọn "**Tạo mới**" để tạo nhân viên mới.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-Bước 3: Điền thông tin và nhấn "**Create**" để thêm một nhân viên mới.<br>
+### Bước 3: Điền thông tin và nhấn "**Create**" để thêm một nhân viên mới.<br>
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-Bước 4: Kiểm tra danh sách, nhân viên mới được thêm sẽ hiện ở danh sách nhân viên là đã thành công.
+### Bước 4: Kiểm tra danh sách, nhân viên mới được thêm sẽ hiện ở danh sách nhân viên là đã thành công.
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>

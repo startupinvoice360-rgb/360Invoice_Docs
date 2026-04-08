@@ -1,6 +1,6 @@
 # Vận tải - Xe tải - Xe ship
 
-**Tổng quan chức năng**
+### **Tổng quan chức năng**
 
 Hướng dẫn cách sử dụng ứng dụng để quản lý dịch vụ vận tải, bao gồm 3 phần chính:
 
@@ -28,7 +28,7 @@ Bước này giúp bạn thiết lập mức giá cước vận chuyển (theo K
 
 <figure><img src="../../.gitbook/assets/image (171).png" alt="" width="254"><figcaption></figcaption></figure>
 
-**Phần 2: Quản lý chi phí phát sinh (Thu/chi)**
+### **Phần 2: Quản lý chi phí phát sinh (Thu/chi)**
 
 Mô hình vận tải sẽ phát sinh nhiều chi phí hàng ngày như xăng dầu, bến bãi, sửa xe. Bạn cần ghi nhận lại để theo dõi lợi nhuận chính xác.&#x20;
 
@@ -55,7 +55,7 @@ Mô hình vận tải sẽ phát sinh nhiều chi phí hàng ngày như xăng d�
 
 <div><figure><img src="../../.gitbook/assets/image (175).png" alt="" width="251"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (176).png" alt="" width="247"><figcaption></figcaption></figure></div>
 
-**Phần 3: Tính tiền cước vận chuyển (Thao tác bán hàng)**
+### **Phần 3: Tính tiền cước vận chuyển (Thao tác bán hàng)**
 
 **Khi hoàn thành di chuyển đi và thu tiền cước của khách, bạn thực hiện các bước sau:**
 

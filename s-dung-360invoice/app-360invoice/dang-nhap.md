@@ -6,11 +6,11 @@ description: >-
 
 # Đăng nhập
 
-Bước 1: Mở ứng dụng **360Invoice - Quản lý bán hàng**, màn hình giới thiệu sẽ hiện thị ra.
+### Bước 1: Mở ứng dụng **360Invoice - Quản lý bán hàng**, màn hình giới thiệu sẽ hiện thị ra.
 
 <div><figure><img src="../../.gitbook/assets/IMG_8530.PNG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8529.PNG" alt=""><figcaption></figcaption></figure></div>
 
-Bước 2: Thực hiện nhấn <img src="../../.gitbook/assets/IMG_8530.png" alt="" data-size="line">hoặc chọn <img src="../../.gitbook/assets/IMG_85301.png" alt="" data-size="line"> nếu đã có tài khoản, hệ thống sẽ chuyển sang màn hình đăng nhập.
+### Bước 2: Thực hiện nhấn <img src="../../.gitbook/assets/IMG_8530.png" alt="" data-size="line">hoặc chọn <img src="../../.gitbook/assets/IMG_85301.png" alt="" data-size="line"> nếu đã có tài khoản, hệ thống sẽ chuyển sang màn hình đăng nhập.
 
 <div><figure><img src="../../.gitbook/assets/IMG_85303.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_85302.png" alt=""><figcaption></figcaption></figure></div>
 

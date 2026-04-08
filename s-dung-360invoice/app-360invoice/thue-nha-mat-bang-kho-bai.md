@@ -1,6 +1,6 @@
 # Thuê nhà - Mặt bằng - Kho bãi
 
-**Tổng quan chức năng**
+### **Tổng quan chức năng**
 
 Hướng dẫn bạn cách thiết lập và quản lý các hợp đồng cho thuê mặt bằng / phòng trọ, bao gồm 3 phần chính:
 
@@ -8,7 +8,7 @@ Hướng dẫn bạn cách thiết lập và quản lý các hợp đồng cho t
 * Tạo kỳ hạn thuế: Thiết lập thông tin khách thuê và khoảng thời gian cho thuê.
 * Thu tiền thuê: Ghi nhận thanh toán và in hóa đơn cho khách.
 
-**Phần 1: Khai báo mặt bằng cho thuê (Thêm sản phẩm)**
+### **Phần 1: Khai báo mặt bằng cho thuê (Thêm sản phẩm)**
 
 Bước này giúp bạn đưa ra danh sách các phòng / mặt bằng vào hệ thống cùng với mức giá thuê cơ bản.
 
@@ -34,7 +34,7 @@ Bước này giúp bạn đưa ra danh sách các phòng / mặt bằng vào h�
 
 <div><figure><img src="../../.gitbook/assets/image (119).png" alt="" width="233"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (120).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
-**Phần 2: Khởi tạo Hợp đồng / Kỳ hạn thuê (Thao tác nhập hàng)**
+### **Phần 2: Khởi tạo Hợp đồng / Kỳ hạn thuê (Thao tác nhập hàng)**
 
 Khi có khách hàng chốt thuê mặt bằng, bạn dùng tính năng "Nhập hàng" để thiết lập khoảng thời gian sẽ thuê.
 
@@ -64,7 +64,7 @@ Khi có khách hàng chốt thuê mặt bằng, bạn dùng tính năng "Nhập 
 
 5. Kiểm tra lại thông tin, sau đó nhấn Tạo đơn ở cuối màn hình để xác nhận ghi nhận kỳ hạn thuê này vào hệ thống.
 
-**Phần 3: Thu tiền thuê mặt bằng (Thao tác Bán hàng)**
+### **Phần 3: Thu tiền thuê mặt bằng (Thao tác Bán hàng)**
 
 Khi đến hạn thu tiền hoặc khách đóng tiền trước, bạn sẽ thao tác như sau:
 

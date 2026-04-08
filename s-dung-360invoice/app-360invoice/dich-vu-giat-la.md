@@ -1,6 +1,6 @@
 # Dịch vụ giặt là
 
-**Tổng quan chức năng**
+### **Tổng quan chức năng**
 
 Hướng dẫn bạn quy trình 3 bước để quản lý toàn diện một tiệm giặt là trên ứng dụng:
 
@@ -8,7 +8,7 @@ Hướng dẫn bạn quy trình 3 bước để quản lý toàn diện một ti
 2. Quản lý chi phí vật tư: Ghi nhận lại các khoản chi tiền mua nước giặt, nước xả để tính lãi lỗ chính xác.
 3. Tạo hóa đơn cho khách: Tính tiền giặt dựa trên số cân nặng thực tế và in biên lai.
 
-**Phần 1: Khai báo Dịch vụ Giặt là (Thêm sản phẩm)**
+### **Phần 1: Khai báo Dịch vụ Giặt là (Thêm sản phẩm)**
 
 Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (cân) quần áo.
 
@@ -28,7 +28,7 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="238"><figcaption></figcaption></figure>
 
-**Phần 2: Ghi nhận chi phí mua vật tư (Tạo Phiếu chi)**
+### **Phần 2: Ghi nhận chi phí mua vật tư (Tạo Phiếu chi)**
 
 Để cuối tháng ứng dụng tính toán được chính xác số tiền lãi, bạn cần ghi lại những khoản tiền đã bỏ ra để mua vật liệu (nước giặt, nước xả...)
 
@@ -54,7 +54,7 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
-**Phần 3: Tính tiền và Tạo hóa đơn cho khách (Bán hàng)**
+### **Phần 3: Tính tiền và Tạo hóa đơn cho khách (Bán hàng)**
 
 Khi khách hàng mang quần áo đến, bạn cân lên và thực hiện tạo đơn hàng trên ứng dụng.&#x20;
 

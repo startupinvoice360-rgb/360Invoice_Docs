@@ -44,7 +44,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 * Nhấn **Tạo đơn**.
 * _Lưu ý: Để xem lại/xóa hoặc quản lý phiếu nhập, bạn vào mục Nhập hàng, nhấn vào biểu tượng danh sách (bảng) để xem, có thể vuốt trái để xóa đơn._
 
-#### 3. Bán hàng
+### 3. Bán hàng
 
 * Chọn Bán hàng.
 
@@ -71,7 +71,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * Nhấn **Tạo đơn**. Bạn có thể chọn In hóa đơn nếu khách có nhu cầu.
 
-#### 4. Quản lý Đơn bán và Trả hàng
+### 4. Quản lý Đơn bán và Trả hàng
 
 * Tại mục Bán hàng, nhấn vào dấu Ba chấm (...) -> Chọn Danh sách đơn hàng (Quản lý đơn bán).
 
@@ -89,7 +89,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 <div><figure><img src="../../.gitbook/assets/image (15).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (19).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (20).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-#### 5. Kiểm kho và Cân bằng kho
+### 5. Kiểm kho và Cân bằng kho
 
 * Chọn mục **Kho** từ trang chủ.
 

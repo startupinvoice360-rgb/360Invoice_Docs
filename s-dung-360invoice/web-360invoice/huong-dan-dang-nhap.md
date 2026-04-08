@@ -5,25 +5,25 @@ icon: right-to-bracket
 
 # Hướng dẫn đăng nhập
 
-1. Các bước đăng nhập
+## 1. Các bước đăng nhập
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-Bước 1: Nhập thông tin đăng nhập
+### Bước 1: Nhập thông tin đăng nhập
 
 * Nhập số điện thoại
 * Nhập mật khẩu
 * Nếu bạn là nhân viên → tick vào ô "**Bạn là nhân viên**"
 * Nếu là chủ cửa hàng → bỏ trống
 
-Bước 2: Nhấn đăng nhập&#x20;
+### Bước 2: Nhấn đăng nhập&#x20;
 
 * Nhấn nút ĐĂNG NHẬP
 * Hệ thống sẽ tự động chuyển bạn vào trang chính nếu thông tin đúng.
 
 
 
-2. **TRƯỜNG HỢP THƯỜNG GẶP**
+## **2. TRƯỜNG HỢP THƯỜNG GẶP**
 
 ❌ Không đăng nhập được
 
@@ -33,7 +33,7 @@ Bước 2: Nhấn đăng nhập&#x20;
 
 
 
-**🔑 QUÊN MẬT KHẨU**
+### **QUÊN MẬT KHẨU**
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt="" width="289"><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Hướng dẫn:
 
 
 
-**CHƯA CÓ TÀI KHOẢN:**
+### **CHƯA CÓ TÀI KHOẢN:**
 
 <figure><img src="../../.gitbook/assets/image (60).png" alt="" width="306"><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ Hướng dẫn:
 
 
 
-3. **LƯU Ý KHI ĐĂNG NHẬP**
+## **3. LƯU Ý KHI ĐĂNG NHẬP**
 
 * Không chia sẻ mật khẩu cho người khác
 * Nên đăng xuất khi dùng máy lạ

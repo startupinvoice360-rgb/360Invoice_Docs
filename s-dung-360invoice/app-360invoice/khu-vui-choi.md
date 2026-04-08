@@ -1,13 +1,13 @@
 # Khu vui chơi
 
-**TỔNG QUAN CHỨC NĂNG**
+### **TỔNG QUAN CHỨC NĂNG**
 
 Hướng dẫn bạn thực hiện quy trình cơ bản nhất để vận hành khu vui chơi trên ứng dụng, bao gồm 2 phần chính
 
 * Thiết lập dữ liệu ban đầu: Tạo nhóm hàng (danh mục) và Thêm sản phẩm (vé dịch vụ, đồ ăn / thức uống).
 * Quy trình bán hàng: Tạo đơn hàng, tính tiền và in hóa đơn cho khách.
 
-**PHẦN 1: THIẾT LẬP DANH MỤC SẢN PHẨM**
+### **PHẦN 1: THIẾT LẬP DANH MỤC SẢN PHẨM**
 
 Trước khi có thể bán hàng, bạn cần khi báo các mặt hàng đang kinh doanh vào hệ thống.
 
@@ -52,7 +52,7 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 
 * Nhấn nút Tạo SP ở cuối màn hình để hoàn tất.
 
-**PHẦN 2: THAO TÁC BÁN HÀNG VÀ THANH TOÁN**
+### **PHẦN 2: THAO TÁC BÁN HÀNG VÀ THANH TOÁN**
 
 Khi khách hàng đến mua vé hoặc đồ ăn, bạn sẽ thực hiện các thao tác sau:
 

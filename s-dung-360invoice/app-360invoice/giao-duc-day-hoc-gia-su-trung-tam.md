@@ -1,13 +1,13 @@
 # Giáo dục - Dạy học - Gia sư - Trung tâm
 
-**TỔNG QUAN CHỨC NĂNG**
+### **TỔNG QUAN CHỨC NĂNG**
 
 Hướng dẫn các thao tác cơ bản để vận hành trung tâm gia sư trên ứng dụng, bao gồm 2 phần chính:
 
 * Thiết lập dữ liệu khóa học: Tạo danh mục môn học và thêm các lớp học / khóa học cụ thể.
 * Đăng ký học viên: Ghi nhận học viên mới, xếp lịch học, thu học phí và in biên lai.
 
-**Phần 1: Thiết lập Môn học và Khóa học**
+### **Phần 1: Thiết lập Môn học và Khóa học**
 
 Để quản lý dễ dàng, bạn cần thiết lập danh sách các môn và các lớp học cụ thể đang được giảng dạy tại trung tâm.
 
@@ -53,7 +53,7 @@ Tạo các lớp học cụ thể với giáo viên và mức học phí tương
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt="" width="240"><figcaption></figcaption></figure>
 
-**Phần 2: Đăng ký khóa học và Thu học phí**
+### **Phần 2: Đăng ký khóa học và Thu học phí**
 
 Khi có học viên đến đăng ký đóng học phí, bạn thực hiện quy trình sau:
 
