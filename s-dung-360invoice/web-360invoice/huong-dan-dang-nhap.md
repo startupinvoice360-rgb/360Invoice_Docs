@@ -7,7 +7,7 @@ icon: right-to-bracket
 
 ## 1. Các bước đăng nhập
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 1: Nhập thông tin đăng nhập
 
@@ -35,7 +35,7 @@ icon: right-to-bracket
 
 ### **QUÊN MẬT KHẨU**
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="289"><figcaption></figcaption></figure>
 
 Hướng dẫn:
 
@@ -46,7 +46,7 @@ Hướng dẫn:
 
 ### **CHƯA CÓ TÀI KHOẢN:**
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88).png" alt="" width="306"><figcaption></figcaption></figure>
 
 **Hướng dẫn:**
 

@@ -18,7 +18,7 @@
 * Trong menu vừa mở, chọn:
   * **“Nhập hàng”**
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 3: Chọn “Tạo đơn mua hàng”
 
@@ -27,13 +27,13 @@
 
 Lúc này hệ thống sẽ chuyển sang màn hình **Tạo đơn nhập hàng**.
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 5: Màn hình “Tạo đơn nhập hàng”
 
 Tại đây bạn có thể nhập đầy đủ thông tin đơn nhập hàng:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 6: Nhấn "tạo đơn"
 

@@ -18,11 +18,11 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 * Tại màn hình **Trang chủ**, chọn mục **Sản phẩm**.
 * Nhấn vào biểu tượng dấu (+) ở góc phải màn hình.
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="124"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt="" width="124"><figcaption></figcaption></figure>
 
 * Chọn Thêm nhóm hàng và nhập tên nhóm hàng (Ví dụ: "Vé" hoặc "Thức ăn").
 
-<div><figure><img src="../../.gitbook/assets/image (79).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (81).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (82).png" alt="" width="127"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (107).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (109).png" alt="" width="124"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (110).png" alt="" width="127"><figcaption></figcaption></figure></div>
 
 * Nhấn nút **Tạo nhóm sản** phẩm để lưu lại
 
@@ -33,7 +33,7 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 * Tại màn hình sản phẩm, tiếp tục nhấn vào biểu tượng dấu (+).
 * Chọn Thêm sản phẩm.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt="" width="123"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt="" width="123"><figcaption></figcaption></figure>
 
 * **Điền các thông tin cơ bản:**
 
@@ -41,14 +41,14 @@ Giúp bạn phân loại sản phầm để dễ quản lý và tìm kiếm khi 
 2. Đơn vị tính: Nhập đơn vị tương ứng (Ví dụ "Cái", "Lượt", "Vé").
 3.  Giá bán lẻ: Nhập giá tiền bán cho khách.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (85).png" alt="" width="127"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (113).png" alt="" width="127"><figcaption></figcaption></figure>
 4. Nhóm hàng: Nhấn vào mục Chọn nhóm hàng và tích chọn nhóm phù hợp đã tạo ở Bước 1.
 
-<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="124"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt="" width="124"><figcaption></figcaption></figure>
 
 * Cài đặt Kho hàng (**Quan trọng**): Tùy thuộc vào loại sản phẩm, bạn cần vuốt xuống dưới và thiết lập tính năng kho cho phù hợp theo bảng sau:
 
-<div><figure><img src="../../.gitbook/assets/image (84).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (88).png" alt="" width="126"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (112).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (116).png" alt="" width="126"><figcaption></figcaption></figure></div>
 
 * Nhấn nút Tạo SP ở cuối màn hình để hoàn tất.
 
@@ -60,29 +60,29 @@ Khi khách hàng đến mua vé hoặc đồ ăn, bạn sẽ thực hiện các 
 
 &#x20;1\.  Tại màn hình Trang chủ, nhấn vào nút Bán hàng (màu xanh lá cây)
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt="" width="125"><figcaption></figcaption></figure>
 
 2. Nhập tên khách hàng vào ô Nhập tên khách (Ví dụ: "Minh"). _Lưu ý: Có thể bỏ qua nếu là khách vãng lai không cần lưu tên._
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt="" width="125"><figcaption></figcaption></figure>
 
 3. Tại phần Chọn sản phẩm, chạm vào biểu tượng của các sản phẩm khách muốn mua (Ví dụ: chạm vào ảnh Xúc xích và Vé xe lửa) và nhấn Tiếp tục đơn hàng ở cạnh dưới màn hình.
 
-<figure><img src="../../.gitbook/assets/image (92).png" alt="" width="122"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt="" width="122"><figcaption></figcaption></figure>
 
 **Bước 2: Điều chỉnh số lượng và Thanh toán**
 
 1. Điều chỉnh số lượng mua: Tại danh sách các món đã chọn, nhấn dấu (+) để tăng số lượng hoặc dấu (-) để giảm số lượng cho từng mặt hàng. Hệ thống sẽ tự động cộng dồn Tổng tiền. Sau đó kiểm tra lại tổng tiền thanh toán của khách.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt="" width="125"><figcaption></figcaption></figure>
 
 2. Chạm vào mục Hình thức T.Toán để chọn cách khách trả tiền (Tiền mặt, Chuyển khoản hoặc Quẹt thẻ). Và nhấn nút Tạo đơn.
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt="" width="125"><figcaption></figcaption></figure>
 
 3. Màn hình sẽ hiển thị Hóa đơn báng hàng chi tiết. Lúc này, bạn      chỉ cần nhấn In hóa đơn để đưa cho khách và hoàn tất quy trình.
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt="" width="123"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt="" width="123"><figcaption></figcaption></figure>
 
 **Lưu ý và Mẹo cho người mới**
 

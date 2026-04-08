@@ -8,7 +8,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * **Bước 1:** Từ màn hình trang chủ, bạn chọn mục **Sản phẩm** và nhấn vào biểu tượng dấu cộng (**+**). _(Nếu đã có sẵn danh sách dạng Excel, bạn có thể chọn "**Upload file Excel**", nếu không hãy chọn "**Thêm sản phẩm**")._
 
-<div><figure><img src="../../.gitbook/assets/image (137).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (138).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (139).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (165).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (166).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (167).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * **Bước 2:** Điền các thông tin chi tiết cho sản phẩm:
   * **Tên sản phẩm** (VD: Nước hoa) & **Mã sản phẩm**.
@@ -18,11 +18,11 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
   * Nhãn hiệu: Nhấn vào dấu (+) để tạo và thêm nhãn hiệu mới (VD: Chanel).
   * Ảnh sản phẩm: Chụp trực tiếp hoặc tải ảnh lên.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt="" width="163"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt="" width="163"><figcaption></figcaption></figure>
 
 * **Bước 3:** Khởi tạo tồn kho ban đầu. Nếu trong kho đang có sẵn hàng, bạn bật tính năng Khởi tạo kho hàng và điền số lượng hiện có (VD: 12 chai).
 
-<div><figure><img src="../../.gitbook/assets/image (144).png" alt="" width="161"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (145).png" alt="" width="162"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (172).png" alt="" width="161"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (173).png" alt="" width="162"><figcaption></figcaption></figure></div>
 
 * **Bước 4:** Nhấn **Tạo sản phẩm** để lưu lại.
 
@@ -30,23 +30,23 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * **Bước 1:** Chọn mục **Nhập hàng**.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * **Bước 2:** Thêm thông tin nhà cung cấp: Nhấn **Thêm mới nhà cung cấp**, điền Tên, Số điện thoại (có thể thêm tên công ty, người đại diện, địa chỉ nếu cần) và nhấn **Tạo mới**.
 
-<div><figure><img src="../../.gitbook/assets/image (147).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (148).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (175).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (176).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * **Bước 3:** **Chọn sản phẩm** cần nhập (VD: Nước hoa) và nhấn **Tiếp tục đơn hàng**.
 
-<div><figure><img src="../../.gitbook/assets/image (149).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (150).png" alt="" width="162"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (177).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (178).png" alt="" width="162"><figcaption></figcaption></figure></div>
 
 * **Bước 4:** Nhập số lượng hàng mới nhập về (VD: 10 lọ), hệ thống sẽ tự động tính toán ra tổng giá tiền. Bạn có thể ghi chú thêm nếu cần.
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * **Bước 5:** Chọn **Hình thức thanh toán** (Tiền mặt, Chuyển khoản hoặc Quẹt thẻ).
 
-<div><figure><img src="../../.gitbook/assets/image (152).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (153).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (180).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (181).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
 * **Bước 6:** Nhấn **Tạo đơn** để hoàn tất và xuất phiếu nhập hàng.
 
@@ -54,15 +54,15 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * **Bước 1:** Khi có sự chênh lệch số lượng thực tế và trên phần mềm, bạn chọn mục **Kho**.
 
-<figure><img src="../../.gitbook/assets/image (154).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * **Bước 2:** Chọn sản phẩm cần điều chỉnh.
 
-<div><figure><img src="../../.gitbook/assets/image (155).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (157).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (183).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (185).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * **Bước 3:** Nhập lại số lượng thực tế sau khi kiểm đếm (VD: Điều chỉnh thành 20 lọ).
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt="" width="166"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (187).png" alt="" width="166"><figcaption></figcaption></figure>
 
 * **Bước 4:** Nhấn **Cân bằng kho** để hệ thống cập nhật lại số lượng chính xác.
 
@@ -70,27 +70,27 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * **Bước 1:** Chọn mục Bán hàng.
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt="" width="166"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (188).png" alt="" width="166"><figcaption></figcaption></figure>
 
 * **Bước 2:** Nhập tên khách hàng (VD: Nhi), nếu là khách lẻ tích chọn **Khách lẻ**.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt="" width="166"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (189).png" alt="" width="166"><figcaption></figcaption></figure>
 
 * **Bước 3:** Chọn sản phẩm khách mua. Bạn có thể tìm **tên sản phẩm** hoặc nhấn vào biểu tượng Ba chấm (...) -> Chọn Quét mã vạch và đưa mã vạch của sản phẩm vào camera để ứng dụng tự động nhận diện.
 
-<div><figure><img src="../../.gitbook/assets/image (162).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (164).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (190).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (192).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
 * **Bước 4:** Nhấn Tiếp tục đơn hàng để phần mềm tính tổng tiền.
 
-<figure><img src="../../.gitbook/assets/image (165).png" alt="" width="169"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt="" width="169"><figcaption></figcaption></figure>
 
 * **Bước 5 (Tuỳ chọn):** Áp dụng giảm giá (nếu có). Bạn có thể chọn giảm theo phần trăm (VD: 25%) hoặc theo số tiền (VND), phần mềm sẽ tự động trừ đi.
 
-<figure><img src="../../.gitbook/assets/image (166).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (194).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * **Bước 6:** Chọn Hình thức thanh toán (Tiền mặt, Chuyển khoản, Quẹt thẻ).
 
-<div><figure><img src="../../.gitbook/assets/image (152).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (153).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (180).png" alt="" width="162"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (181).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
 * **Bước 7:** Nhấn **Tạo đơn** để chốt hóa đơn bán hàng. Nếu khách có nhu cầu lấy bill, bạn có thể nhấn In hóa đơn.
 

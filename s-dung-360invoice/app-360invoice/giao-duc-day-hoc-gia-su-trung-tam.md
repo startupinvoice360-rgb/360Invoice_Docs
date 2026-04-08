@@ -17,15 +17,15 @@ Phân loại các lớp học theo từng môn học để dễ dàng quản lý
 
 1. Tại màn hình Trang chủ, chọn mục Sản phẩm.
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt="" width="236"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (125).png" alt="" width="236"><figcaption></figcaption></figure>
 
 2. Nhấn vào biểu tượng dấu (+) ở góc phải màn hình và Chọn Thêm nhóm hàng.
 
-<div><figure><img src="../../.gitbook/assets/image (99).png" alt="" width="234"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="235"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (127).png" alt="" width="234"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (128).png" alt="" width="235"><figcaption></figcaption></figure></div>
 
 3. Nhận tên môn học vào ô Tên nhóm hàng (Ví dụ: "Vật lý", "Toán", "Tiếng Anh") và nhấn nút Tạo nhóm sản phẩm để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt="" width="234"><figcaption></figcaption></figure>
 
 **Bước 2: Thêm sản phẩm (Khóa học /** **Lớp học chi tiết)**
 
@@ -33,7 +33,7 @@ Tạo các lớp học cụ thể với giáo viên và mức học phí tương
 
 1. Tại màn hình sản phẩm, tiếp tục nhấn vào biểu tượng dấu (+) và nhấn Thêm sản phẩm.
 
-<div><figure><img src="../../.gitbook/assets/image (102).png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (103).png" alt="" width="234"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (130).png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (131).png" alt="" width="234"><figcaption></figcaption></figure></div>
 
 2. Điền các thông tin của lớp học:
 
@@ -43,15 +43,15 @@ Tạo các lớp học cụ thể với giáo viên và mức học phí tương
 
 &#x20;\- Giá bán lẻ: Nhập mức học phí của lớp học đó (Ví dụ: "500.000").
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt="" width="238"><figcaption></figcaption></figure>
 
 &#x20;\- Nhóm hàng: Nhấn vào mục Chọn nhóm hàng và chọn môn học tương ứng đã tạo Bước (Ví dụ: Vật  lý).
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt="" width="240"><figcaption></figcaption></figure>
 
 3. Cài đặt Kho hàng (Quan trọng): Kéo xuống dưới, bạn bắt buộc phải công tắc Cho phép bán âm  (chuyển sang màu xanh). Khóa học là dịch vụ, không phải hàng hóa vật lý nên không có số lượng tồn kho. Sau đó nhấn Tạo SP ở cuối màn hình để lưu lại.
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt="" width="240"><figcaption></figcaption></figure>
 
 ### **Phần 2: Đăng ký khóa học và Thu học phí**
 
@@ -61,15 +61,15 @@ Khi có học viên đến đăng ký đóng học phí, bạn thực hiện quy
 
 1. Tại màn hình Trang chủ, nhấn vào nút Bán hàng (màu xanh lá cây).
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt="" width="233"><figcaption></figcaption></figure>
 
 2. Nhập tên học viên ô Nhập tên khách (Ví dụ: "Trâm"). Lưu ý: Với trung tâm gia sư, việc lưu tên khách hàng là rất cần thiết để theo dõi.
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt="" width="232"><figcaption></figcaption></figure>
 
 3. Tại phần chọn sản phẩm, chạm vào biểu tượng của khóa học mà học viên muốn đăng ký (Ví dụ: "L8 - Vật lý - Cô Hà"). Và nhấn nút Tiếp tục đơn hàng ở cạnh dưới màn hình.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt="" width="229"><figcaption></figcaption></figure>
 
 Bước 2: Thêm ghi chú lịch học (Quan trọng)
 
@@ -78,7 +78,7 @@ Bước 2: Thêm ghi chú lịch học (Quan trọng)
 
 * Ví dụ: "10 buổi - Thứ 3 - 19h" (Học 10 buổi, thứ 3 hàng tuần 19h).
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (139).png" alt="" width="229"><figcaption></figcaption></figure>
 
 Bước 3: Thanh toán và in biên lai
 
@@ -86,11 +86,11 @@ Bước 3: Thanh toán và in biên lai
 2. Chọn hình thức thanh toán (Tiền mặt, Chuyển khoản, quẹt thẻ).
 3. Nhấn Nút tạo đơn
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt="" width="231"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt="" width="231"><figcaption></figcaption></figure>
 
 4. Màn hình sẽ hiển thị Hóa đơn bán hàng. Nhấn nút In hóa đơn ở góc phải dưới để in biên lai cho học viên.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt="" width="229"><figcaption></figcaption></figure>
 
 **Lưu ý và Mẹo cho trung tâm gia sư**
 
