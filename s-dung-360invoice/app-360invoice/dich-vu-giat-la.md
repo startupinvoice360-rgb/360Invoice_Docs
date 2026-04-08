@@ -14,7 +14,7 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 
 1. Tại màn hình Trang chủ, chọn mục Sản phẩm ---> Nhấn vào biểu tượng dấu cộng (+) và chọn Thêm sản phẩm.
 
-<div><figure><img src="../../.gitbook/assets/image.png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="236"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (28).png" alt="" width="237"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="236"><figcaption></figcaption></figure></div>
 
 2. Cập nhật các thông tin cơ bản:
 
@@ -22,11 +22,11 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 * Đơn vị tính: Nhập "Cân" hoặc "Kg".
 * Giá bán lẻ: Nhập mức giá tiền cho 1 cân quần áo (Ví dụ: "40.000"). _Lưu ý: Bỏ qua phần Giá nhập._
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="234"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="234"><figcaption></figcaption></figure>
 
 3. Cài đặt Kho hàng (Quan trọng): Vuốt màn hình xuống dưới cùng, bạn bắt buộc phải bật công tắc Cho phép bán âm (chuyển sang   màu xanh). Giặt là là một dịch vụ nên không có giới hạn số lượng tồn kho. Và nhấn Tạo SP để hoàn tất.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="238"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="238"><figcaption></figcaption></figure>
 
 **Phần 2: Ghi nhận chi phí mua vật tư (Tạo Phiếu chi)**
 
@@ -34,11 +34,11 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 
 1. Tại màn hình Trang chủ, chọn mục Thu chi
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="232"><figcaption></figcaption></figure>
 
 2. Nhấn vào dấu (+) ở góc phải dưới cùng, chọn Tạo phiếu chi (nút màu đỏ)
 
-<div><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="234"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="234"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="234"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="234"><figcaption></figcaption></figure></div>
 
 3. Điền thông tin khoản chi:
 
@@ -48,11 +48,11 @@ Bước này giúp bạn cài đặt sẵn mức giá giặt cho mỗi kilogam (
 * Số tiền chi: Nhập số tiền đã thanh toán (Ví dụ: "800.000").
 * Ghi chú: Ghi rõ món đồ đã mua để dễ kiểm soát (Ví dụ: "Mua nước giặt").
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
 4. Đảm bảo ô Hạch toán kết quả kinh doanh đã được đánh dấu tick (v) và nhấn Tạo phiếu chi để lưu lại.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="235"><figcaption></figcaption></figure>
 
 **Phần 3: Tính tiền và Tạo hóa đơn cho khách (Bán hàng)**
 
@@ -60,11 +60,11 @@ Khi khách hàng mang quần áo đến, bạn cân lên và thực hiện tạo
 
 1. Tại màn hình Trang chủ, nhấn vào nút Bán hàng.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="242"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="242"><figcaption></figcaption></figure>
 
 2. Nhập tên khách vào ô Nhập tên khách (Ví dụ: Quân) Nên xin thêm số điện thoại ghi bên cạnh tên để tiện liên hệ khi giặt xong. Tại danh sách bên dưới, chạm vào mục Giặt là và nhấn Tiếp tục đơn hàng.
 
-<div><figure><img src="../../.gitbook/assets/image (10).png" alt="" width="235"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="229"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="235"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="229"><figcaption></figcaption></figure></div>
 
 5. Nhập số cân nặng thực tế:
 
@@ -72,13 +72,15 @@ Khi khách hàng mang quần áo đến, bạn cân lên và thực hiện tạo
 * Chọn hình thức thanh toán (Tiền mặt, chuyển khoản...)
 * Nhấn nút Tạo đơn
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="239"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="239"><figcaption></figcaption></figure>
 
 6. Nhấn In hóa đơn để in ra và ghim vào túi quần áo của khách, tránh nhầm lẫn không đáng có
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt="" width="232"><figcaption></figcaption></figure>
 
 **Lưu ý và Mẹo cho tiệm giặt là**
 
 * Ghi chú đơn hàng: Ở phần thanh toán (Bán hàng), bạn có thể dùng mục Ghi chú để ghi lại tình trạng quần áo của khách (Ví dụ: "Áo sơ mi trắng bị ố cổ", "Khách yêu cầu dùng nước xả thơm") để nhân viên giặt lưu ý.
 * Tạo phiếu thu/chi đều đặn: Mọi chi phí từ tiền điện, tiền nước, đến tiền mua móc áo đều nên được tạo "Phiếu chi" để có cái nhìn tổng quan nhất về hiệu quả kinh doanh của tiệm.
+
+**Hưỡng dân chi tiết xem tại:** [**https://youtube.com/shorts/RLRRHFINb88?si=Yl9jLO\_-2PCmuhFu**](https://youtube.com/shorts/RLRRHFINb88?si=Yl9jLO_-2PCmuhFu)

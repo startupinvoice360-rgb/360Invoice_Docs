@@ -110,7 +110,7 @@ Tính năng này giúp bạn tạo sẵn các "combo" thuốc (VD: Đơn thuốc
 
 <div><figure><img src="../../.gitbook/assets/image (218).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (219).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (220).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (221).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-Hướng dẫn xem chi tiết tại: [https://youtu.be/QchDAo5xhbs?si=WWLCZUCw2j80c8Fx](https://youtu.be/QchDAo5xhbs?si=WWLCZUCw2j80c8Fx)
+**Hướng dẫn xem chi tiết tại:** [**https://youtu.be/QchDAo5xhbs?si=WWLCZUCw2j80c8Fx**](https://youtu.be/QchDAo5xhbs?si=WWLCZUCw2j80c8Fx)
 
 ## Lưu ý quan trọng
 

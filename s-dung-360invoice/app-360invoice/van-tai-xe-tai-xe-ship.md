@@ -82,3 +82,5 @@ Mô hình vận tải sẽ phát sinh nhiều chi phí hàng ngày như xăng d�
 
 * Kiểm soát chặt chẽ thu chi: Việc tạo Phiếu chi cho mỗi lần đổ xăng hay sửa xe là cực kỳ quan trọng để hệ thống có thể tính toán chính xác số tiền lãi cuối tháng cho bạn.
 * Luôn bật "Bán âm": Giống như mô hình gia sư, dịch vụ vận tải cần được bật tính năng "Cho phép bán âm" khi tạo mới để không bị lỗi báo hết hàng.
+
+**Hưỡng dẫn chi tiết xem tại:** [**https://youtube.com/shorts/07RrD1GONmw?si=woXLsXXEK4cHYzmH**](https://youtube.com/shorts/07RrD1GONmw?si=woXLsXXEK4cHYzmH)

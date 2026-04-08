@@ -6,14 +6,14 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 
 ### Bước 1: Thêm menu
 
-#### ➤ Thực hiện:
+#### **➤ Thực hiện:**
 
 * Chọn **Menu**
 * Chọn **Thêm thực đơn**
 
 <div><figure><img src="../../.gitbook/assets/IMG_8635[1] (2).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8637[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8636[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-#### ➤ Nhập thông tin:
+#### **➤ Nhập thông tin:**
 
 **Thông tin cơ bản:**
 
@@ -32,9 +32,9 @@ description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu
 
 <figure><img src="../../.gitbook/assets/IMG_8640[1].png" alt="" width="188"><figcaption></figcaption></figure>
 
-#### ➤ Khởi tạo nhóm hàng:
+#### **➤ Khởi tạo nhóm hàng:**
 
-* Chọn **Chọn nhóm hàng**&#x20;
+* Chọn **Chọn nhóm hàng**
 * Nhấn chọn dấu **+**
 * Nhập thông tin nhóm hàng
 * Nhấn nút **Tạo nhóm hàng hóa**

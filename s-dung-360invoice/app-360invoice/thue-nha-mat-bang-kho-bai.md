@@ -97,3 +97,5 @@ Khi đến hạn thu tiền hoặc khách đóng tiền trước, bạn sẽ tha
 * Hiểu đúng thuật ngữ của App: Trong mô hình này, việc "Nhập hàng" đồng nghĩa với việc bạn tạo ra quỹ thời gian cho thuê (xác định khách thuê từ ngày nào đến ngày nào). Việc "Bán hàng" đồng nghĩa với việc bạn chốt thu tiền của khoảng thời gian đó.
 * Theo dõi hạn sử dụng: Do tính năng "Hạn sử dụng" được dùng làm "Ngày hết hạn hợp đồng", bạn có thể dễ dàng kiểm tra xem mặt bằng nào sắp hết hạn thuê để chủ động liên hệ với khách gia hạn hoặc tìm khách mới.
 
+**Hưỡng dẫn chi tiết xem tại:** [**https://youtube.com/shorts/zu6g\_P5-iqY?si=GgutY6Nveeg36qlB**](https://youtube.com/shorts/zu6g_P5-iqY?si=GgutY6Nveeg36qlB)
+

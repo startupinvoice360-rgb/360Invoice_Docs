@@ -8,19 +8,19 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * Tại màn hình chính, chọn Sản phẩm.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Nhấn dấu (+) để thêm mới. Bạn có thể quét mã vạch trên vỏ hộp hoặc nhập thủ công các thông tin: Tên sản phẩm, đơn vị tính, giá nhập và giá bán.
 
-<div><figure><img src="../../.gitbook/assets/image (15).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (16) (1).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (17) (1).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * Quản lý kho: Bật "Khởi tạo kho hàng" để điền số lượng tồn kho hiện tại .
 
-<div><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (19).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (18) (1).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * Phân loại: Nếu sản phẩm có nhiều màu sắc/phiên bản, hãy bật "Thuộc tính" để thêm chi tiết (ví dụ: màu xanh, màu trắng) và cập nhật số lượng cho từng loại.
 
-<div><figure><img src="../../.gitbook/assets/image (20).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="169"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (20) (1).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (21) (1).png" alt="" width="169"><figcaption></figcaption></figure></div>
 
 * Nhấn **Tạo sản phẩm** để hoàn tất.
 
@@ -28,15 +28,15 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * Chọn mục Nhập hàng.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Chọn Nhà cung cấp (có thể tạo mới nếu chưa có thông tin).
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Chọn sản phẩm cần nhập hoặc quét mã vạch để ứng dụng tự động nhận diện.
 
-<div><figure><img src="../../.gitbook/assets/image (24).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (25).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (24) (1).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (25) (1).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * Điền số lượng nhập, kiểm tra giá tiền và nhấn Tạo đơn để lưu phiếu nhập.
 
@@ -44,11 +44,11 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 * Chọn mục Bán hàng.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Thông tin khách hàng: Chọn khách hàng cũ hoặc tạo mới để theo dõi lịch sử mua hàng và nợ.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt="" width="166"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt="" width="166"><figcaption></figcaption></figure>
 
 * Chọn sản phẩm khách mua.
 
@@ -77,7 +77,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 Bạn có thể theo dõi chi tiết tình hình nợ của từng khách hàng trong mục Khách hàng để dễ dàng quản lý và thu hồi nợ.
 
-Hướng dẫn xem chi tiết tại: [https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi](https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi)
+**Hướng dẫn xem chi tiết tại:** [**https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi**](https://youtu.be/YWbYgV8iecQ?si=q-I9IgYkmMIgMGpi)
 
 ## Lưu ý quan trọng
 

@@ -96,3 +96,5 @@ Bước 3: Thanh toán và in biên lai
 
 * Luôn bật "Bán âm": Khi tạo bất kỳ khóa học nào, hãy nhớ bật tính năng "Cho phép bán âm" vì khóa học không có số lượng trong kho như hàng hóa thông thường.
 * Tận dụng mục Ghi chú: Mục ghi chú trong đơn hàng cực kỳ hữu ích để lưu lại lịch học cụ thể, ca học, hoặc các yêu cầu đặc biệt của phụ huynh/học viên. Thông tin này sẽ được in trực tiếp lên biên lai, giúp cả trung tâm và học viên đều nắm rõ lịch trình.
+
+**Hưỡng dẫn chi tiết xem tại:** [**https://youtube.com/shorts/PC4vMResiIM?si=W-NVZrStJovmUMRr**](https://youtube.com/shorts/PC4vMResiIM?si=W-NVZrStJovmUMRr)

@@ -88,3 +88,6 @@ Khi khách hàng đến mua vé hoặc đồ ăn, bạn sẽ thực hiện các 
 
 * Kiểm tra kỹ loại hàng hóa: Hãy luôn nhớ phân biệt rõ mặt hàng nào cần kiểm soát số lượng tồn kho (đồ ăn, nước uống) và mặt hàng nào bán dịch vụ không giới hạn (vé vào cửa, vé trò chơi) để bật đúng công tắc ở Bước 2 phần Thiết lập.
 * Thao tác nhanh khi bán hàng: Ở màn hình Bán hàng, bạn có thể tìm kiếm nhanh sản phẩm bằng thanh tìm kiếm thay vì vuốt tìm thủ công nếu danh sách sản phẩm quá dài.
+
+**Hưỡng dẫn chi tiết xem tại:** [**https://youtube.com/shorts/4oea-D2B2ck?si=jemvrgzxEKDn6BAP**](https://youtube.com/shorts/4oea-D2B2ck?si=jemvrgzxEKDn6BAP)
+
