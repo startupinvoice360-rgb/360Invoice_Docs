@@ -4,7 +4,7 @@
 
 * Tại màn hình trang chủ, nhấn vào mục Menu.
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (273) (1).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Nhấn vào dấu cộng (+) ở góc trái và chọn Thêm thực đơn.
 
@@ -32,7 +32,7 @@
 
 * Trong mục Menu, nhấn dấu cộng (+) và chọn Thêm thực đơn.
 
-<div><figure><img src="../../.gitbook/assets/image (273).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (273) (1).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure></div>
 
 * Nhập tên Topping (ví dụ: "Trân châu") và điền giá bán (ví dụ: 5.000đ).
 
