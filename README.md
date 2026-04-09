@@ -2,7 +2,6 @@
 description: >-
   Nền tảng giúp các cá nhân và doanh nghiệp quản lý kinh doanh và bán hàng
   online siêu tốc - chuyên nghiệp - hiệu quả.
-icon: hand-wave
 ---
 
 # Giới thiêu

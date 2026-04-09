@@ -1,7 +1,3 @@
----
-icon: left-from-bracket
----
-
 # Hướng dẫn đăng xuất
 
 ### Bước 1: Tại màn hình chính, nhấn vào biểu tượng người dùng:

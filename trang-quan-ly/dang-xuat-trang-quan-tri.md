@@ -1,7 +1,3 @@
----
-icon: left-from-bracket
----
-
 # Đăng xuất trang quản trị
 
 ### **Bước 1:** tại màn hình giao diện trang quản trị hệ thống, click chọn vào hình user đang đăng nhập góc bên phải màn hình:

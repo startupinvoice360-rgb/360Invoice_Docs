@@ -1,6 +1,5 @@
 ---
 description: Để sử dụng hệ thống, bạn cần đăng nhập bằng tài khoản đã được tạo trước đó.
-icon: right-to-bracket
 ---
 
 # Hướng dẫn đăng nhập
