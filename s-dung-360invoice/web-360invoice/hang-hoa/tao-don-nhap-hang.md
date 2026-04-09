@@ -35,7 +35,7 @@ Tại đây bạn có thể nhập đầy đủ thông tin đơn nhập hàng:&#
 
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-### Bước 6: Nhấn "tạo đơn"
+### Bước 6: Nhấn "Tạo đơn"
 
 Sau khi nhấn tạo đơn, đơn hàng sẽ được thêm vào, xem ở Hóa đơn mua hàng.
 

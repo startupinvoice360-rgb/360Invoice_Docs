@@ -1,7 +1,3 @@
----
-description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
----
-
 # Tạp hóa - Siêu thị - Đại lý
 
 ### 1. Thêm sản phẩm mới

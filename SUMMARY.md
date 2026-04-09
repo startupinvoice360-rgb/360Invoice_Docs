@@ -39,7 +39,7 @@
   * [Đăng nhập](s-dung-360invoice/app-360invoice/dang-nhap.md)
   * [Đăng xuất](s-dung-360invoice/app-360invoice/dang-xuat.md)
   * [Tạp hóa - Siêu thị - Đại lý](s-dung-360invoice/app-360invoice/tap-hoa-sieu-thi-dai-ly.md)
-  * [Thời trang - Giày dép - làm đẹp](s-dung-360invoice/app-360invoice/thoi-trang-giay-dep-lam-dep.md)
+  * [Thời trang - Giày dép - Làm đẹp](s-dung-360invoice/app-360invoice/thoi-trang-giay-dep-lam-dep.md)
   * [Nhà Hàng/Quán](s-dung-360invoice/app-360invoice/nha-hang-quan.md)
   * [Spa - Salon - Massage - Làm đẹp](s-dung-360invoice/app-360invoice/spa-salon-massage-lam-dep.md)
   * [Nước hoa - Mỹ Phẩm - Skincare](s-dung-360invoice/app-360invoice/nuoc-hoa-my-pham-skincare.md)

@@ -1,6 +1,6 @@
 # Đăng xuất trang quản trị
 
-### **Bước 1:** tại màn hình giao diện trang quản trị hệ thống, click chọn vào hình user đang đăng nhập góc bên phải màn hình:
+### **Bước 1:** Tại màn hình giao diện trang quản trị hệ thống, click chọn vào hình user đang đăng nhập góc bên phải màn hình:
 
 <figure><img src="../.gitbook/assets/Logout1.png" alt=""><figcaption></figcaption></figure>
 

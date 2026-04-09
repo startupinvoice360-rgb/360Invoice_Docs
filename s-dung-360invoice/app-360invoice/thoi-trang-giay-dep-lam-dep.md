@@ -1,8 +1,4 @@
----
-description: Thêm sản phẩm → Kết nối máy in → In tem → Thêm NCC → Nhập hàng → Bán hàng
----
-
-# Thời trang - Giày dép - làm đẹp
+# Thời trang - Giày dép - Làm đẹp
 
 ### 1. Thêm sản phẩm và phân loại thuộc tính (Size, Màu sắc)
 

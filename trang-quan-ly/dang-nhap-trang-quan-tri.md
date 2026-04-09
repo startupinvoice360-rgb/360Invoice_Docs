@@ -2,7 +2,7 @@
 
 ### **Bước 1:** User truy cập vào trang quản trị qua đường link sau: [https://agent.360invoice.vn/login](https://agent.360invoice.vn/login)
 
-### **Bước 2:** Tại From Đăng nghiệp, nhập địa chỉ Email (địa chỉ Email là Email hợp lệ, Email đã dùng để đăng ký vào app).
+### **Bước 2:** Tại Form Đăng nhập, nhập địa chỉ Email (địa chỉ Email là Email hợp lệ, Email đã dùng để đăng ký vào app).
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-01 134025.png" alt=""><figcaption></figcaption></figure>
 

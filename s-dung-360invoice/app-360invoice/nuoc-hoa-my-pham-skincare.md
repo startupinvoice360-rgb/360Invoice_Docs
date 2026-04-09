@@ -1,7 +1,3 @@
----
-description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
----
-
 # Nước hoa - Mỹ Phẩm - Skincare
 
 ### 1. Thêm sản phẩm mới
@@ -28,7 +24,7 @@ description: Sản phẩm → Nhập hàng → Kiểm kho → Bán hàng
 
 ### 2. Nhập thêm hàng vào kho
 
-* **Bước 1:** Chọn mục **Nhập hàng**.
+* **Bước 1:** Chọn mục **Nhập**.
 
 <figure><img src="../../.gitbook/assets/image (174).png" alt="" width="164"><figcaption></figcaption></figure>
 

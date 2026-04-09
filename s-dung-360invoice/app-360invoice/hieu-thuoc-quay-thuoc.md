@@ -67,18 +67,18 @@ Trước khi bán hay nhập hàng, bạn cần phải tạo thông tin sản ph
 
 <figure><img src="../../.gitbook/assets/image (226).png" alt="" width="166"><figcaption></figcaption></figure>
 
-* Bước 3: Chọn khách hàng: Mặc định là Khách lẻ. Nếu muốn lưu thông tin để quản lý nợ/điểm, nhấn Chọn khách hàng -> Tạo mới -> Nhập Tên, SĐT -> Tạo khách hàng.
+* **Bước 3**: Chọn khách hàng: Mặc định là Khách lẻ. Nếu muốn lưu thông tin để quản lý nợ/điểm, nhấn Chọn khách hàng -> Tạo mới -> Nhập Tên, SĐT -> Tạo khách hàng.
 
 <div><figure><img src="../../.gitbook/assets/image (227).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (229).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (230).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-* Bước 4: Nhấn Tiếp tục đơn hàng -> Chọn đúng lô thuốc muốn bán và nhập số lượng -> Xác nhận.
-* Bước 5: Xử lý thanh toán và công nợ:
+* **Bước 4**: Nhấn Tiếp tục đơn hàng -> Chọn đúng lô thuốc muốn bán và nhập số lượng -> Xác nhận.
+* **Bước 5**: Xử lý thanh toán và công nợ:
   * Có thể nhập số tiền giảm giá cho khách.
   * _Trường hợp khách nợ:_ Nếu tổng đơn là 300k, khách trả trước 200k, bạn nhập số tiền khách đưa là 200k. Phần mềm sẽ tự động tính khách nợ 100k và lưu vào danh sách khách hàng.
 
 <div><figure><img src="../../.gitbook/assets/image (231).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (232).png" alt="" width="161"><figcaption></figcaption></figure></div>
 
-* Bước 6: Nhấn **Tạo đơn**. Có thể in hóa đơn nếu khách yêu cầu.
+* **Bước 6**: Nhấn **Tạo đơn**. Có thể in hóa đơn nếu khách yêu cầu.
 
 ### 4. Tạo mẫu hóa đơn (Lên sẵn đơn thuốc)
 

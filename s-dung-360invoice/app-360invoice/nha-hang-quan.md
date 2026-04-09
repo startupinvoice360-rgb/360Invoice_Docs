@@ -1,159 +1,106 @@
----
-description: Hàng hóa → Phòng/Bàn → Nhập hàng → Kiểm kho → Menu → Bán hàng
----
-
 # Nhà Hàng/Quán
 
-### Bước 1: Thêm menu
+### 1. Cách thêm món mới vào Menu
 
-#### **➤ Thực hiện:**
+* Tại màn hình trang chủ, nhấn vào mục Menu.
 
-* Chọn **Menu**
-* Chọn **Thêm thực đơn**
+<figure><img src="../../.gitbook/assets/image (273).png" alt="" width="164"><figcaption></figcaption></figure>
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (2).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8637[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8636[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+* Nhấn vào dấu cộng (+) ở góc trái và chọn Thêm thực đơn.
 
-#### **➤ Nhập thông tin:**
+<div><figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
-**Thông tin cơ bản:**
+* Nhập Tên sản phẩm (ví dụ: "Sữa tươi trân châu đường đen").&#x20;
 
-* Tên sản phẩm
-* Mã sản phẩm
-* Ảnh mã vạch _(nếu có)_
-* Đơn vị tính
-* Giá nhập
-* Giá bán lẻ
+<figure><img src="../../.gitbook/assets/image (276).png" alt="" width="164"><figcaption></figcaption></figure>
 
-**Thông tin mở rộng:**
+* Tại mục Nhóm hàng, bạn có thể chọn nhóm có sẵn hoặc nhấn Tạo mới nhóm hàng (ví dụ: "Thức uống khác") rồi nhấn xác nhận.
 
-* Giá bán buôn _(nếu có)_
-* Nhóm hàng
-  * Nhấn **(+)** để tạo nhóm
+<div><figure><img src="../../.gitbook/assets/image (277).png" alt="" width="169"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (279).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (280).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (278).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/IMG_8640[1].png" alt="" width="188"><figcaption></figcaption></figure>
+* Nếu món có nhiều kích cỡ, hãy bật mục Size lên: Nhập "M" rồi nhấn Xong, nhập "L" rồi nhấn Xong.
 
-#### **➤ Khởi tạo nhóm hàng:**
+<div><figure><img src="../../.gitbook/assets/image (281).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (282).png" alt="" width="167"><figcaption></figcaption></figure></div>
 
-* Chọn **Chọn nhóm hàng**
-* Nhấn chọn dấu **+**
-* Nhập thông tin nhóm hàng
-* Nhấn nút **Tạo nhóm hàng hóa**
+* Điền Giá bán lẻ tương ứng cho từng size (ví dụ: Size L 25.000đ, Size M 20.000đ).
 
-<div><figure><img src="../../.gitbook/assets/IMG_8640[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8641[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8642[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/image (283).png" alt="" width="164"><figcaption></figcaption></figure>
 
-### Bước 2: Thêm mặt hàng (nguyên liệu)
+* Nhấn **Thêm thực đơn** để hoàn tất.
 
-#### ➤ Thực hiện:
+### 2. Cách thêm Topping (Món thêm)
 
-* Trang chủ → **Mặt hàng**
-* Nhấn **(+)** để thêm khu vực
-* Chọn **Thêm hàng hóa**
-* Nhập đầy đủ thông tin hàng hóa vào
+* Trong mục Menu, nhấn dấu cộng (+) và chọn Thêm thực đơn.
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (3).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8643[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8644[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8649[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (273).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure></div>
 
-#### ➤ Thiết lập:
+* Nhập tên Topping (ví dụ: "Trân châu") và điền giá bán (ví dụ: 5.000đ).
 
-* Chọn thêm nhẫn hiệu:
+<figure><img src="../../.gitbook/assets/image (276).png" alt="" width="164"><figcaption></figcaption></figure>
 
-<div><figure><img src="../../.gitbook/assets/IMG_8649[1] (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8650[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8651[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+* Kéo xuống dưới, gạt nút Món thêm sang trạng thái ON.
 
-### Bước 3: Nhập hàng
+<figure><img src="../../.gitbook/assets/image (284).png" alt="" width="169"><figcaption></figcaption></figure>
 
-#### ➤ Thực hiện:
+* Nhấn **Thêm thực đơn**.
 
-* Trang chủ → **Nhập**
-* Chọn **Thêm mới nhà cung cấp**
-* Nhập thông tin → Nhấn **Tạo mới**
+### 3. Cách thêm và nhập kho nguyên liệu
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (4).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8609[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8610.PNG" alt="" width="188"><figcaption></figcaption></figure></div>
+* Thêm nguyên liệu: Nhấn dấu cộng (+) -> chọn Thêm mặt hàng. Nhập tên (ví dụ: "Đường"), đơn vị tính ("Gói") và Giá nhập. Vì không bán lẻ đường nên bạn không cần điền giá bán lẻ. Nhấn Tạo mặt hàng.
 
-#### ➤ Tạo đơn nhập:
+<div><figure><img src="../../.gitbook/assets/image (285).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (286).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (287).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (288).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
-* Chọn **Chọn sản phẩm**
-* Nhập số lượng
+* Nhập hàng: Nhấn vào mục Nhập hàng, chọn hoặc tạo mới Nhà cung cấp.
 
-<div><figure><img src="../../.gitbook/assets/IMG_8654[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8657[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (289).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (290).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (291).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
-#### ➤ Trường hợp đặc biệt:
+* Chọn các nguyên liệu cần nhập (ví dụ: Đường, Sữa), điền số lượng thực tế nhập về.
 
-* Nếu giá nhập thay đổi → nhập giá mới
+<div><figure><img src="../../.gitbook/assets/image (292).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (293).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="168"><figcaption></figcaption></figure></div>
 
-#### ➤ Thanh toán:
+* (Tùy chọn) Chỉnh sửa thời gian nhập hàng nếu bạn nhập từ trước đó. Nhấn Tạo hóa đơn để hoàn thành phiếu nhập.
 
-* Chọn hình thức thanh toán
+<div><figure><img src="../../.gitbook/assets/image (297).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (296).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
-#### ➤ Hoàn tất:
+* Kiểm kho: Vào mục Kho -> Kiểm kho, nhập số lượng thực tế đang có (ví dụ: Sữa còn 10 hộp) và chọn Cân bằng kho.
 
-* Nhấn **Tạo đơn**
+<div><figure><img src="../../.gitbook/assets/image (298).png" alt="" width="161"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (301).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (302).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (299).png" alt="" width="168"><figcaption></figcaption></figure></div>
 
-### Bước 4: Kiểm kho (khi có sai lệch)
+### 4. Cách định lượng nguyên liệu cho món ăn (Công thức)
 
-#### ➤ Khi sử dụng:
+* Vào Menu, chọn món cần cài đặt công thức (ví dụ: "Sữa chua xoài") và nhấn vào dấu ba chấm.
 
-* Khi số lượng thực tế ≠ hệ thống
+<div><figure><img src="../../.gitbook/assets/image (303).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (304).png" alt="" width="170"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (305).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
-#### ➤ Thực hiện:
+* Bật mục Kết hợp nguyên liệu sang ON.
 
-* Trang chủ → **Kho**
-* Chọn sản phẩm
-* Nhấn **3 chấm** → **Kiểm kho**
+<figure><img src="../../.gitbook/assets/image (307).png" alt="" width="166"><figcaption></figcaption></figure>
 
-<div><figure><img src="../../.gitbook/assets/IMG_8635[1] (5).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8658[1].png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8659[1].png" alt="" width="188"><figcaption></figcaption></figure></div>
+* Nhấn Chọn nguyên liệu, tích chọn các loại như Đường, Sữa...
 
-#### ➤ Cập nhật:
+<div><figure><img src="../../.gitbook/assets/image (308).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (309).png" alt="" width="169"><figcaption></figcaption></figure></div>
 
-* Nhập lại số lượng đúng
-* Nhấn **Cân bằng kho**
+* Điền tỉ lệ tiêu hao cho mỗi món (ví dụ: Đường là 1, Sữa là 2).
 
-<figure><img src="../../.gitbook/assets/IMG_8660[1].png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (310).png" alt="" width="164"><figcaption></figcaption></figure>
 
-### Bước 5: Thêm nguyên liệu cho sản phẩm&#x20;
+* Nhấn Cập nhật thực đơn. Bây giờ, mỗi khi bán 1 ly sữa chua xoài, kho nguyên liệu sẽ tự động trừ đi theo đúng tỉ lệ này.
 
-#### ➤ Thực hiện:
+### 5. Cách thiết lập Phòng/Bàn
 
-* Trang chủ → **Menu**
-* Nhấn **(+)** → **Thêm dịch vụ**
+* Nhấn vào mục Tạo đơn -> chọn Thêm bàn.
 
-#### ➤ Nhập thông tin:
+<div><figure><img src="../../.gitbook/assets/image (311).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (313).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
-* Tên món / dịch vụ
-* Giá bán
-* Nhóm khách hàng
+*   Nhập tên khu vực (ví dụ: "Khu vực 1") và tên bàn (ví dụ: "Bàn 2")
 
-#### ➤ Thiết lập nguyên liệu:
+    <figure><img src="../../.gitbook/assets/image (314).png" alt="" width="165"><figcaption></figcaption></figure>
 
-* Bật **Kết hợp nguyên liệu**
-* Chọn **Nguyên liệu**
-* Nhấn **Tiếp tục**
-* Nhập số lượng theo tỉ lệ
+    .
 
-### Bước 6: Bán hàng
 
-#### ➤ Thực hiện:
 
-* Trang chủ → **Phòng**
-* Chọn khu vực → Chọn phòng/bàn
-
-#### ➤ Tạo đơn:
-
-* Chọn **Khách hàng**
-* Chọn **Mặt hàng / Dịch vụ**
-
-#### ➤ Thanh toán:
-
-**Trường hợp 1: Thanh toán ngay**
-
-* Nhấn **Thanh toán**
-
-**Trường hợp 2: Thanh toán sau**
-
-* Chọn **Tùy chọn** → **Tạo đơn**
-
-👉 Khi khách thanh toán:
-
-* Mở lại phòng
-* Nhấn **Thanh toán**
+* Nhấn Thêm bàn.
 
 **Hướng dẫn chi tiết tại:** [**https://youtu.be/xmxJJBKzMtw?si=eKxchpuqa7ikrHpx**](https://youtu.be/xmxJJBKzMtw?si=eKxchpuqa7ikrHpx)
 
