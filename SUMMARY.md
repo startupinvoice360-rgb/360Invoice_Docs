@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Giới thiêu](README.md)
+* [Giới thiệu](README.md)
   * [1. 360 Invoice là gì?](gioi-thieu/1.-360-invoice-la-gi.md)
   * [2. Giá trị cốt lõi mà 360Invoice mang lại](gioi-thieu/2.-gia-tri-cot-loi-ma-360invoice-mang-lai.md)
   * [3. Tổng quan Hệ sinh thái Tính năng](gioi-thieu/3.-tong-quan-he-sinh-thai-tinh-nang.md)
