@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Đăng nhập trang quản trị
 
 ### **Bước 1:** User truy cập vào trang quản trị qua đường link sau: [https://agent.360invoice.vn/login](https://agent.360invoice.vn/login)
