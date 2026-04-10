@@ -4,27 +4,27 @@
 
 * Tại màn hình trang chủ, nhấn vào mục Menu.
 
-<figure><img src="../../.gitbook/assets/image (273) (1).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (274).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Nhấn vào dấu cộng (+) ở góc trái và chọn Thêm thực đơn.
 
-<div><figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (275).png" alt="" width="167"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (276).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
 * Nhập Tên sản phẩm (ví dụ: "Sữa tươi trân châu đường đen").&#x20;
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (277).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Tại mục Nhóm hàng, bạn có thể chọn nhóm có sẵn hoặc nhấn Tạo mới nhóm hàng (ví dụ: "Thức uống khác") rồi nhấn xác nhận.
 
-<div><figure><img src="../../.gitbook/assets/image (277).png" alt="" width="169"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (279).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (280).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (278).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (278).png" alt="" width="169"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (280).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (281).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (279).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
 * Nếu món có nhiều kích cỡ, hãy bật mục Size lên: Nhập "M" rồi nhấn Xong, nhập "L" rồi nhấn Xong.
 
-<div><figure><img src="../../.gitbook/assets/image (281).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (282).png" alt="" width="167"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (282).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (283).png" alt="" width="167"><figcaption></figcaption></figure></div>
 
 * Điền Giá bán lẻ tương ứng cho từng size (ví dụ: Size L 25.000đ, Size M 20.000đ).
 
-<figure><img src="../../.gitbook/assets/image (283).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Nhấn **Thêm thực đơn** để hoàn tất.
 
@@ -32,15 +32,15 @@
 
 * Trong mục Menu, nhấn dấu cộng (+) và chọn Thêm thực đơn.
 
-<div><figure><img src="../../.gitbook/assets/image (273) (1).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (274).png" alt="" width="167"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (274).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (276).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (275).png" alt="" width="167"><figcaption></figcaption></figure></div>
 
 * Nhập tên Topping (ví dụ: "Trân châu") và điền giá bán (ví dụ: 5.000đ).
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (277).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Kéo xuống dưới, gạt nút Món thêm sang trạng thái ON.
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt="" width="169"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt="" width="169"><figcaption></figcaption></figure>
 
 * Nhấn **Thêm thực đơn**.
 
@@ -48,41 +48,41 @@
 
 * Thêm nguyên liệu: Nhấn dấu cộng (+) -> chọn Thêm mặt hàng. Nhập tên (ví dụ: "Đường"), đơn vị tính ("Gói") và Giá nhập. Vì không bán lẻ đường nên bạn không cần điền giá bán lẻ. Nhấn Tạo mặt hàng.
 
-<div><figure><img src="../../.gitbook/assets/image (285).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (286).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (287).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (288).png" alt="" width="166"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (286).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (287).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (288).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (289).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
 * Nhập hàng: Nhấn vào mục Nhập hàng, chọn hoặc tạo mới Nhà cung cấp.
 
-<div><figure><img src="../../.gitbook/assets/image (289).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (290).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (291).png" alt="" width="166"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (290).png" alt="" width="163"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (291).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (292).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
 * Chọn các nguyên liệu cần nhập (ví dụ: Đường, Sữa), điền số lượng thực tế nhập về.
 
-<div><figure><img src="../../.gitbook/assets/image (292).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (293).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="168"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (293).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (295).png" alt="" width="168"><figcaption></figcaption></figure></div>
 
 * (Tùy chọn) Chỉnh sửa thời gian nhập hàng nếu bạn nhập từ trước đó. Nhấn Tạo hóa đơn để hoàn thành phiếu nhập.
 
-<div><figure><img src="../../.gitbook/assets/image (297).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (296).png" alt="" width="164"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (298).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (297).png" alt="" width="164"><figcaption></figcaption></figure></div>
 
 * Kiểm kho: Vào mục Kho -> Kiểm kho, nhập số lượng thực tế đang có (ví dụ: Sữa còn 10 hộp) và chọn Cân bằng kho.
 
-<div><figure><img src="../../.gitbook/assets/image (298).png" alt="" width="161"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (301).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (302).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (299).png" alt="" width="168"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (299).png" alt="" width="161"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (302).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (303).png" alt="" width="164"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (300).png" alt="" width="168"><figcaption></figcaption></figure></div>
 
 ### 4. Cách định lượng nguyên liệu cho món ăn (Công thức)
 
 * Vào Menu, chọn món cần cài đặt công thức (ví dụ: "Sữa chua xoài") và nhấn vào dấu ba chấm.
 
-<div><figure><img src="../../.gitbook/assets/image (303).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (304).png" alt="" width="170"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (305).png" alt="" width="165"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (304).png" alt="" width="165"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (305).png" alt="" width="170"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (306).png" alt="" width="165"><figcaption></figcaption></figure></div>
 
 * Bật mục Kết hợp nguyên liệu sang ON.
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt="" width="166"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (308).png" alt="" width="166"><figcaption></figcaption></figure>
 
 * Nhấn Chọn nguyên liệu, tích chọn các loại như Đường, Sữa...
 
-<div><figure><img src="../../.gitbook/assets/image (308).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (309).png" alt="" width="169"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (309).png" alt="" width="168"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (310).png" alt="" width="169"><figcaption></figcaption></figure></div>
 
 * Điền tỉ lệ tiêu hao cho mỗi món (ví dụ: Đường là 1, Sữa là 2).
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt="" width="164"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (311).png" alt="" width="164"><figcaption></figcaption></figure>
 
 * Nhấn Cập nhật thực đơn. Bây giờ, mỗi khi bán 1 ly sữa chua xoài, kho nguyên liệu sẽ tự động trừ đi theo đúng tỉ lệ này.
 
@@ -90,11 +90,11 @@
 
 * Nhấn vào mục Tạo đơn -> chọn Thêm bàn.
 
-<div><figure><img src="../../.gitbook/assets/image (311).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (313).png" alt="" width="166"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (312).png" alt="" width="166"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (314).png" alt="" width="166"><figcaption></figcaption></figure></div>
 
 *   Nhập tên khu vực (ví dụ: "Khu vực 1") và tên bàn (ví dụ: "Bàn 2")
 
-    <figure><img src="../../.gitbook/assets/image (314).png" alt="" width="165"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (315).png" alt="" width="165"><figcaption></figcaption></figure>
 
     .
 
