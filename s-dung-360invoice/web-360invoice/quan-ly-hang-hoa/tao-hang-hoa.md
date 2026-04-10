@@ -4,9 +4,8 @@
 
 * Sau khi đăng nhập, bạn đang ở màn hình **Trang chủ** (Dashboard).
 * Quan sát thanh menu bên trái.
-*
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 111044.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 111044.png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2: Truy cập mục “Hàng hóa”
 
@@ -24,9 +23,8 @@ Hệ thống sẽ chuyển sang màn hình **Quản lý sản phẩm** (danh sá
   * Danh sách tất cả sản phẩm
   * Thông tin: mã SP, tên SP, tồn kho, trạng thái...
   * Thanh tìm kiếm và bộ lọc
-*
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 111108.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-04-02 111108.png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 4: Thêm sản phẩm mới
 

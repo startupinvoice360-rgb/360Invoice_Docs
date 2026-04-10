@@ -19,13 +19,13 @@ description: >-
 
 * Việc đăng xuất giúp **bảo mật thông tin tài khoản**, đặc biệt khi bạn sử dụng máy tính công cộng hoặc thiết bị không phải của cá nhân.
 * Sau khi đăng xuất, hệ thống sẽ **tự động chuyển về màn hình đăng nhập**, bạn cần nhập lại tài khoản để tiếp tục sử dụng.
-* Nếu bạn không thực hiện đăng xuất, hệ thống có thể vẫn giữ phiên đăng nhập trong một khoảng thời gian nhất định.
+* Nếu không thực hiện đăng xuất, ứng dụng có thể duy trì trạng thái đăng nhập để thuận tiện cho lần sử dụng sau. Tuy nhiên, hãy cân nhắc tính bảo mật của thiết bị.
 
 ### ⚠ Các trường hợp nên đăng xuất
 
 Bạn nên đăng xuất khỏi hệ thống trong các trường hợp sau:
 
-* Sử dụng **máy tính dùng chung** (văn phòng, quán net, máy người khác)
-* Hoàn tất công việc và **không sử dụng hệ thống trong thời gian dài**
-* Muốn **đăng nhập bằng tài khoản khác**
-* Khi nghi ngờ tài khoản có dấu hiệu **bị truy cập trái phép**
+* Sử dụng **điện thoại hoặc thiết bị của người khác**.
+* Sau khi hoàn tất công việc và không có ý định sử dụng **hệ thống trong thời gian dài**.
+* Khi bạn muốn chuyển đổi sang **đăng nhập bằng một tài khoản khác**.
+* Khi nghi ngờ tài khoản có dấu hiệu **bị truy cập trái phép**.

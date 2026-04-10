@@ -4,15 +4,12 @@ description: >-
   online siêu tốc - chuyên nghiệp - hiệu quả.
 ---
 
-# Giới thiêu
+# Giới thiệu
 
 ### Chào mừng đến với Trung tâm hỗ trợ & Hướng dẫn sử dụng 360Invoice
 
 Cảm ơn bạn đã tin tưởng và lựa chọn [360Invoice](https://360invoice.vn/) làm người bạn đồng hành trên con đường phát triển kinh doanh của mình!
 
-Trang tài liệu này được đội ngũ phát triển **360Invoice** biên soạn một cách tỉ mỉ và tâm huyết, đóng vai trò như một "Bách khoa toàn thư" giúp bạn và đội ngũ nhân sự dễ dàng làm quen, nắm bắt và khai thác tối đa sức mạnh của phần mềm.
+Trang tài liệu này được đội ngũ **360Invoice** biên soạn một cách tỉ mỉ và tâm huyết, đóng vai trò như một "Bách khoa toàn thư" giúp bạn và đội ngũ nhân sự dễ dàng làm quen, nắm bắt và khai thác tối đa sức mạnh của phần mềm.
 
 **"Giúp việc quản lý kinh doanh và bán hàng trở nên nhanh chóng - chuyên nghiệp  - dễ dàng"**
-
-
-
